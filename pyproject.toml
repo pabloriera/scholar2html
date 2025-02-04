@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "scholar2bibtex"
 version = "0.1.0"
 authors = [
-  { name="Your Name", email="your.email@example.com" },
+  { name="Pablo Riera", email="pablo.riera@gmail.com" },
 ]
 description = "A tool to download and render Google Scholar citations in BibTeX format"
 readme = "README.md"
@@ -18,5 +18,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/scholar2bibtex"
-"Bug Tracker" = "https://github.com/yourusername/scholar2bibtex/issues" 
+"Homepage" = "https://github.com/pabloriera/scholar2bibtex"
+"Bug Tracker" = "https://github.com/pabloriera/scholar2bibtex/issues" 
