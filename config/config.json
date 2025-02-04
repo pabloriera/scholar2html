@@ -6,5 +6,5 @@
         "name": "Example User"
     }],
     "style": "apa",
-    "mandatory_fields": ["year", "journal", "title"]
+    "mandatory_fields": ["year"]
 }
