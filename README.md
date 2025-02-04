@@ -12,9 +12,7 @@ A Python package to download and render Google Scholar citations in BibTeX forma
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/scholar2bibtex.git
-cd scholar2bibtex
-pip install .
+pip install git+https://github.com/pabloriera/scholar2bibtex.git
 ```
 
 ## Configuration
@@ -32,7 +30,7 @@ Create a `config.json` file with the following structure:
         }
     ],
     "style": "apa",
-    "mandatory_fields": ["year", "journal", "title"]
+    "mandatory_fields": ["year"]
 }
 ```
 
