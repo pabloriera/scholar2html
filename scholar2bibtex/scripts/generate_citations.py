@@ -22,16 +22,19 @@ def main():
     style = config.get('style', 'plain')
     mandatory_fields = config.get('mandatory_fields', ['year'])
     
-    # Initialize components
-    downloader = CitationDownloader()
-    renderer = CitationRenderer(style_name=style)
+
     
     # Lists to store all citations and entries
     all_citations: List[Tuple[int, str]] = []
     all_entries: List[Dict[str, Any]] = []
     
     # Process each citation
-    for citation in config['citations']:
+    for citation in config['users']:
+
+        # Initialize components
+        downloader = CitationDownloader()
+        renderer = CitationRenderer(style_name=style)
+
         user_id = citation['user_id']
         code = citation['code']
         name = citation.get('name', user_id)
@@ -65,6 +68,9 @@ def main():
     
     # Generate combined files
     if all_citations:
+        # Initialize components
+        renderer = CitationRenderer(style_name=style)
+        
         # Sort and remove duplicates from combined citations
         all_citations.sort(key=lambda x: (x[0], x[1]), reverse=True)
         all_citations = list(dict.fromkeys(map(tuple, all_citations)))

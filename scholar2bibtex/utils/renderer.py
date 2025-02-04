@@ -4,6 +4,7 @@ from pybtex.database.input import bibtex
 from pybtex.plugin import find_plugin
 import os
 import json
+import re
 
 class CitationRenderer:
     """Class to handle citation rendering and formatting."""
@@ -15,8 +16,48 @@ class CitationRenderer:
         self.style_plain = find_plugin('pybtex.style.formatting', "plain")()
         
     def load_bibtex(self, file_path: str):
-        """Load a BibTeX file."""
-        return self.parser.parse_file(file_path)
+        """
+        Load a BibTeX file, handling duplicate entry keys by adding a counter.
+        
+        Args:
+            file_path: Path to the BibTeX file
+            
+        Returns:
+            Parsed BibTeX data with unique entry keys
+        """
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Find all entry keys in the content
+        entry_keys = {}
+        pattern = r'@\w+{([^,]+),'
+        
+        # First pass: count occurrences of each key
+        for match in re.finditer(pattern, content):
+            key = match.group(1).strip()
+            entry_keys[key] = entry_keys.get(key, 0) + 1
+        
+        # Second pass: modify duplicate keys
+        modified_content = content
+        for key, count in entry_keys.items():
+            if count > 1:
+                print(f"Found {count} entries with key '{key}', adding counters...")
+                # Replace all occurrences with numbered versions
+                counter = 1
+                pattern = f'@(\\w+){{{key},'
+                while counter <= count:
+                    # Replace only the first occurrence in the remaining text
+                    new_key = f"{key}_{counter}"
+                    match = re.search(pattern, modified_content)
+                    if match:
+                        entry_type = match.group(1)
+                        old = f"@{entry_type}{{{key},"
+                        new = f"@{entry_type}{{{new_key},"
+                        modified_content = modified_content.replace(old, new, 1)
+                    counter += 1
+        
+        # Parse the modified content
+        return self.parser.parse_string(modified_content)
         
     def _entry_to_dict(self, entry) -> Dict[str, Any]:
         """Convert a BibTeX entry to a dictionary."""
