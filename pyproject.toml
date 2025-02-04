@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "scholar2bibtex"
+version = "0.1.0"
+authors = [
+  { name="Your Name", email="your.email@example.com" },
+]
+description = "A tool to download and render Google Scholar citations in BibTeX format"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.31.0",
+    "pybtex>=0.24.0",
+    "ipython>=8.12.0"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/yourusername/scholar2bibtex"
+"Bug Tracker" = "https://github.com/yourusername/scholar2bibtex/issues" 

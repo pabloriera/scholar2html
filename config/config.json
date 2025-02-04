@@ -1,0 +1,10 @@
+{
+    "output_dir": "output",
+    "citations": [{
+        "user_id": "E6U3rCYAAAAJ",
+        "code": "APQ9KKMAAAAAZ6OYwJnurv1jdq1yzYLDvJg9-3Q",
+        "name": "Example User"
+    }],
+    "style": "apa",
+    "mandatory_fields": ["year", "journal", "title"]
+}
