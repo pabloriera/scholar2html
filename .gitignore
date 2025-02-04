@@ -32,5 +32,5 @@ ENV/
 *.swo
 
 # Project specific
-# output/
-# !output/.gitkeep 
+output/
+!output/.gitkeep 
