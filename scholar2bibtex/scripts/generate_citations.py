@@ -13,7 +13,7 @@ def load_config(config_path: str) -> Dict:
 
 def main():
     parser = argparse.ArgumentParser(description='Generate citations from Google Scholar')
-    parser.add_argument('--config', default='config.json', help='Path to configuration file')
+    parser.add_argument('--config', default='config/config.json', help='Path to configuration file')
     args = parser.parse_args()
     
     # Load configuration
