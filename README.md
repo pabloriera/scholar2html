@@ -7,6 +7,8 @@ A Python package to download and render Google Scholar citations in BibTeX forma
 - Download citations from multiple Google Scholar profiles
 - Convert BibTeX entries to formatted citations
 - Generate clean HTML output with citations sorted by year
+- Export citation data in JSON format for further processing
+- Generate combined HTML and JSON files for all citations
 - Automatic weekly updates via GitHub Actions
 
 ## Installation
@@ -51,6 +53,25 @@ Run the citation generator:
 ```bash
 python -m scholar2bibtex.scripts.generate_citations --config config.json
 ```
+
+### Output Files
+
+For each author in the configuration, the following files are generated in the output directory:
+
+- `{user_id}.bib`: Raw BibTeX file
+- `{user_id}.html`: HTML formatted citations
+- `{user_id}.json`: Citation data in JSON format
+
+Additionally, combined files for all authors are generated:
+
+- `all.html`: Combined HTML formatted citations from all authors
+- `all.json`: Combined citation data in JSON format
+
+The JSON files contain detailed information about each citation, including:
+- Citation key
+- Entry type
+- All fields (year, title, journal, etc.)
+- Author information
 
 ## GitHub Actions
 
