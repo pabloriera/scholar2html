@@ -1,0 +1,387 @@
+[
+  {
+    "key": "gonzalez2024speech",
+    "type": "article",
+    "fields": {
+      "title": "Speech-induced suppression during natural dialogues",
+      "journal": "Communications Biology",
+      "volume": "7",
+      "number": "1",
+      "pages": "291",
+      "year": "2024",
+      "publisher": "Nature Publishing Group UK London"
+    },
+    "persons": {
+      "author": [
+        "Gonzalez, Joaquin E",
+        "Nieto, Nicol{\\'a}s",
+        "Brusco, Pablo",
+        "Gravano, Agust{\\'\\i}n",
+        "Kamienkowski, Juan E"
+      ]
+    },
+    "year": 2024,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Speech-induced+suppression+during+natural+dialogues",
+    "citation": "Gonzalez, J. E., Nieto, N., Brusco, P., Gravano, A., & Kamienkowski, J. E. (2024). Speech-induced suppression during natural dialogues. Communications Biology, 7(1), 291."
+  },
+  {
+    "key": "gravano2024speech",
+    "type": "article",
+    "fields": {
+      "title": "Speech-induced suppression during natural dialogue",
+      "year": "2024",
+      "publisher": "Communications Biology (ISSN 2399-3642)"
+    },
+    "persons": {
+      "author": [
+        "Gravano, Agust{\\'\\i}n",
+        "Gonz{\\'a}lez, Joaqu{\\'\\i}n E",
+        "Nieto, Nicol{\\'a}s",
+        "Brusco, Pablo",
+        "Kamienkowski, Juan E",
+        "others"
+      ]
+    },
+    "year": 2024,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Speech-induced+suppression+during+natural+dialogue",
+    "citation": ""
+  },
+  {
+    "key": "brusco2023automatic",
+    "type": "article",
+    "fields": {
+      "title": "Automatic offline annotation of turn-taking transitions in task-oriented dialogue",
+      "journal": "Computer Speech \\& Language",
+      "volume": "78",
+      "pages": "101462",
+      "year": "2023",
+      "publisher": "Academic Press"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo",
+        "Gravano, Agust{\\'\\i}n"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Automatic+offline+annotation+of+turn-taking+transitions+in+task-oriented+dialogue",
+    "citation": "Brusco, P., & Gravano, A. (2023). Automatic offline annotation of turn-taking transitions in task-oriented dialogue. Computer Speech & Language, 78, 101462."
+  },
+  {
+    "key": "gravano2023uba",
+    "type": "techreport",
+    "fields": {
+      "title": "Uba games corpus",
+      "year": "2023",
+      "institution": "Tech. Rep., Consejo Nacional de Investigaciones Cient{\\'\\i}ficas y T{\\'e}cnicas~…"
+    },
+    "persons": {
+      "author": [
+        "Gravano, Agust{\\i}n",
+        "Kamienkowski, Juan E",
+        "Brusco, Pablo"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Uba+games+corpus",
+    "citation": "Gravano, A., Kamienkowski, J. E., & Brusco, P. (2023). Uba games corpus. Tech. Rep., Consejo Nacional de Investigaciones Científicas y Técnicas …."
+  },
+  {
+    "key": "shon2022slue",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Slue: New benchmark tasks for spoken language understanding evaluation on natural speech",
+      "booktitle": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "pages": "7927--7931",
+      "year": "2022",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Shon, Suwon",
+        "Pasad, Ankita",
+        "Wu, Felix",
+        "Brusco, Pablo",
+        "Artzi, Yoav",
+        "Livescu, Karen",
+        "Han, Kyu J"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Slue%3A+New+benchmark+tasks+for+spoken+language+understanding+evaluation+on+natural+speech",
+    "citation": "Shon, S., Pasad, A., Wu, F., Brusco, P., Artzi, Y., Livescu, K., & Han, K. J. (2022). Slue: new benchmark tasks for spoken language understanding evaluation on natural speech. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7927–7931)."
+  },
+  {
+    "key": "brusco2022speech",
+    "type": "misc",
+    "fields": {
+      "title": "Speech sentiment analysis using a speech sentiment classifier pretrained with pseudo sentiment labels",
+      "year": "2022",
+      "month": "December~6",
+      "note": "US Patent 11,521,639"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo",
+        "Pan, Jing",
+        "Han, Kyu Jeong"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Speech+sentiment+analysis+using+a+speech+sentiment+classifier+pretrained+with+pseudo+sentiment+labels",
+    "citation": "Brusco, P., Pan, J., & Han, K. J. (2022 , December 6). Speech sentiment analysis using a speech sentiment classifier pretrained with pseudo sentiment labels. US Patent 11,521,639."
+  },
+  {
+    "key": "shon2021leveraging",
+    "type": "article",
+    "fields": {
+      "title": "Leveraging pre-trained language model for speech sentiment analysis",
+      "journal": "arXiv preprint arXiv:2106.06598",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Shon, Suwon",
+        "Brusco, Pablo",
+        "Pan, Jing",
+        "Han, Kyu J",
+        "Watanabe, Shinji"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Leveraging+pre-trained+language+model+for+speech+sentiment+analysis",
+    "citation": "Shon, S., Brusco, P., Pan, J., Han, K. J., & Watanabe, S. (2021). Leveraging pre-trained language model for speech sentiment analysis. arXiv preprint arXiv:2106.06598."
+  },
+  {
+    "key": "brusco2021estudio",
+    "type": "phdthesis",
+    "fields": {
+      "title": "Estudio transling{\\\"u}{\\'\\i}stico de pistas del manejo de turnos en di{\\'a}logos hablados",
+      "year": "2021",
+      "school": "Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Estudio+transling%7B%5C%22u%7D%7B%5C%27%5Ci%7Dstico+de+pistas+del+manejo+de+turnos+en+di%7B%5C%27a%7Dlogos+hablados",
+    "citation": "Brusco, P. (2021). Estudio translingüístico de pistas del manejo de turnos en diálogos hablados (Doctoral dissertation). Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires."
+  },
+  {
+    "key": "gonzalez2021brain",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Brain representation of acoustic features during goal-oriented dialogues",
+      "booktitle": "XXII Simposio Argentino de Inteligencia artificial (ASSAI 2021)-JAIIO 50 (Modalidad virtual)",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Gonzalez, Joaquin",
+        "Nieto, Nicol{\\'a}s",
+        "Veneziano, Mauro",
+        "Brusco, Pablo",
+        "Gravano, Agustin",
+        "Kamienkowski, Juan E"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Brain+representation+of+acoustic+features+during+goal-oriented+dialogues",
+    "citation": "Gonzalez, J., Nieto, N., Veneziano, M., Brusco, P., Gravano, A., & Kamienkowski, J. E. (2021). Brain representation of acoustic features during goal-oriented dialogues. XXII Simposio Argentino de Inteligencia artificial (ASSAI 2021)-JAIIO 50 (Modalidad virtual)."
+  },
+  {
+    "key": "altszyler2020zero_1",
+    "type": "article",
+    "fields": {
+      "title": "Zero-shot multi-domain dialog state tracking using descriptive rules",
+      "journal": "arXiv preprint arXiv:2009.13275",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Altszyler, Edgar",
+        "Brusco, Pablo",
+        "Basiou, Nikoletta",
+        "Byrnes, John",
+        "Vergyri, Dimitra"
+      ]
+    },
+    "year": 2020,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Zero-shot+multi-domain+dialog+state+tracking+using+descriptive+rules",
+    "citation": "Altszyler, E., Brusco, P., Basiou, N., Byrnes, J., & Vergyri, D. (2020). Zero-shot multi-domain dialog state tracking using descriptive rules. arXiv preprint arXiv:2009.13275."
+  },
+  {
+    "key": "brusco2020cross",
+    "type": "article",
+    "fields": {
+      "title": "A cross-linguistic analysis of the temporal dynamics of turn-taking cues using machine learning as a descriptive tool",
+      "journal": "Speech Communication",
+      "volume": "125",
+      "pages": "24--40",
+      "year": "2020",
+      "publisher": "North-Holland"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo",
+        "Vidal, Jazm{\\'\\i}n",
+        "Be{\\v{n}}u{\\v{s}}, {\\v{S}}tefan",
+        "Gravano, Agust{\\'\\i}n"
+      ]
+    },
+    "year": 2020,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=A+cross-linguistic+analysis+of+the+temporal+dynamics+of+turn-taking+cues+using+machine+learning+as+a+descriptive+tool",
+    "citation": "Brusco, P., Vidal, J., Beňuš, Š., & Gravano, A. (2020). A cross-linguistic analysis of the temporal dynamics of turn-taking cues using machine learning as a descriptive tool. Speech Communication, 125, 24–40."
+  },
+  {
+    "key": "altszyler2020zero_2",
+    "type": "article",
+    "fields": {
+      "title": "Zero-shot Multi-Domain Dialog State Tracking Using Descriptive Rules",
+      "year": "2020",
+      "publisher": "Cornell University"
+    },
+    "persons": {
+      "author": [
+        "Altszyler Lemcovich, Edgar Jaim",
+        "Brusco, Pablo",
+        "Basiou, Nikoletta",
+        "Byrnes, John",
+        "Vergyri, Dimitra"
+      ]
+    },
+    "year": 2020,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Zero-shot+Multi-Domain+Dialog+State+Tracking+Using+Descriptive+Rules",
+    "citation": ""
+  },
+  {
+    "key": "brusco2017cross",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Cross-Linguistic Study of the Production of Turn-Taking Cues in American English and Argentine Spanish.",
+      "booktitle": "Interspeech",
+      "pages": "2351--2355",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo",
+        "P{\\'e}rez, Juan Manuel",
+        "Gravano, Agust{\\'\\i}n"
+      ]
+    },
+    "year": 2017,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Cross-Linguistic+Study+of+the+Production+of+Turn-Taking+Cues+in+American+English+and+Argentine+Spanish.",
+    "citation": "Brusco, P., Pérez, J. M., & Gravano, A. (2017). Cross-linguistic study of the production of turn-taking cues in american english and argentine spanish. Interspeech (pp. 2351–2355)."
+  },
+  {
+    "key": "gravano2016you",
+    "type": "article",
+    "fields": {
+      "title": "Who Do You Think Will Speak Next? Perception of Turn-Taking Cues in Slovak and Argentine Spanish",
+      "journal": "Interspeech 2016",
+      "pages": "1265--1269",
+      "year": "2016"
+    },
+    "persons": {
+      "author": [
+        "Gravano, Agust{\\'\\i}n",
+        "Brusco, Pablo",
+        "Be{\\v{n}}u{\\v{s}}, {\\v{S}}tefan"
+      ]
+    },
+    "year": 2016,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Who+Do+You+Think+Will+Speak+Next%3F+Perception+of+Turn-Taking+Cues+in+Slovak+and+Argentine+Spanish",
+    "citation": "Gravano, A., Brusco, P., & Beňuš, Š. (2016). Who do you think will speak next? perception of turn-taking cues in slovak and argentine spanish. Interspeech 2016, pp. 1265–1269."
+  },
+  {
+    "key": "altszyler2015analisis",
+    "type": "inproceedings",
+    "fields": {
+      "title": "An{\\'a}lisis de la din{\\'a}mica del contenido sem{\\'a}ntico de textos",
+      "booktitle": "Argentine Symposium on Artificial Intelligence (ASAI 2015)-JAIIO 44 (Rosario, 2015)",
+      "year": "2015"
+    },
+    "persons": {
+      "author": [
+        "Altszyler, Edgar",
+        "Brusco, Pablo"
+      ]
+    },
+    "year": 2015,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=An%7B%5C%27a%7Dlisis+de+la+din%7B%5C%27a%7Dmica+del+contenido+sem%7B%5C%27a%7Dntico+de+textos",
+    "citation": "Altszyler, E., & Brusco, P. (2015). Análisis de la dinámica del contenido semántico de textos. Argentine Symposium on Artificial Intelligence (ASAI 2015)-JAIIO 44 (Rosario, 2015)."
+  },
+  {
+    "key": "brusco2014keyword",
+    "type": "phdthesis",
+    "fields": {
+      "title": "Keyword spotting en idiomas sin datos de entrenamiento",
+      "year": "2014",
+      "school": "Universidad de Buenos Aires"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo"
+      ]
+    },
+    "year": 2014,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Keyword+spotting+en+idiomas+sin+datos+de+entrenamiento",
+    "citation": "Brusco, P. (2014). Keyword spotting en idiomas sin datos de entrenamiento (Doctoral dissertation). Universidad de Buenos Aires."
+  },
+  {
+    "key": "brusco2014deteccion",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Detecci{\\'o}n de palabras claves en lenguajes sin datos de entrenamiento",
+      "booktitle": "XX Congreso Argentino de Ciencias de la Computaci{\\'o}n (Buenos Aires, 2014)",
+      "year": "2014"
+    },
+    "persons": {
+      "author": [
+        "Brusco, Pablo",
+        "Ferrer, Luciana",
+        "Gravano, Agust{\\'\\i}n"
+      ]
+    },
+    "year": 2014,
+    "name": "Pablo_Brusco",
+    "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Detecci%7B%5C%27o%7Dn+de+palabras+claves+en+lenguajes+sin+datos+de+entrenamiento",
+    "citation": "Brusco, P., Ferrer, L., & Gravano, A. (2014). Detección de palabras claves en lenguajes sin datos de entrenamiento. XX Congreso Argentino de Ciencias de la Computación (Buenos Aires, 2014)."
+  }
+]

@@ -1,0 +1,71 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                table { border-collapse: collapse; width: 100%; }
+                th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { 
+                    background-color: #f5f5f5;
+                    text-decoration: underline;
+                    color: #0066cc;
+                    cursor: pointer;
+                }
+                h1 { color: #333; }
+                .filter-links { margin-bottom: 20px; }
+                .filter-links a {
+                    margin-right: 15px;
+                    text-decoration: none;
+                    color: #0066cc;
+                    padding: 5px 10px;
+                    border-radius: 3px;
+                    cursor: pointer;
+                }
+                .filter-links a.active {
+                    background-color: #0066cc;
+                    color: white;
+                }
+                .hidden { display: none; }
+            </style>
+            <script>
+                function filterByName(name) {
+                    const rows = document.querySelectorAll('table tr[data-name]');
+                    const links = document.querySelectorAll('.filter-links a');
+                    
+                    links.forEach(link => {
+                        if (link.getAttribute('data-name') === name || (name === 'all' && link.getAttribute('data-name') === 'all')) {
+                            link.classList.add('active');
+                        } else {
+                            link.classList.remove('active');
+                        }
+                    });
+                    
+                    rows.forEach(row => {
+                        if (name === 'all' || row.getAttribute('data-name') === name) {
+                            row.classList.remove('hidden');
+                        } else {
+                            row.classList.add('hidden');
+                        }
+                    });
+                }
+
+                function openUrl(url) {
+                    window.open(url, '_blank');
+                }
+            </script>
+        </head>
+        <body>
+        <h1>Citations for Pablo_Brusco</h1><div class="filter-links">
+<a onclick="filterByName('all')" data-name="all" class="active">All</a>
+<a onclick="filterByName('Pablo_Brusco')" data-name="Pablo_Brusco">Pablo Brusco</a>
+</div>
+
+        <table>
+            <tr><th>Year</th><th>Citation</th></tr>
+        <tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Speech-induced+suppression+during+natural+dialogues')"><td>2024</td><td>Gonzalez, J. E., Nieto, N., Brusco, P., Gravano, A., & Kamienkowski, J. E. (2024). Speech-induced suppression during natural dialogues. Communications Biology, 7(1), 291.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Automatic+offline+annotation+of+turn-taking+transitions+in+task-oriented+dialogue')"><td>2023</td><td>Brusco, P., & Gravano, A. (2023). Automatic offline annotation of turn-taking transitions in task-oriented dialogue. Computer Speech & Language, 78, 101462.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Uba+games+corpus')"><td>2023</td><td>Gravano, A., Kamienkowski, J. E., & Brusco, P. (2023). Uba games corpus. Tech. Rep., Consejo Nacional de Investigaciones Científicas y Técnicas ….</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Slue%3A+New+benchmark+tasks+for+spoken+language+understanding+evaluation+on+natural+speech')"><td>2022</td><td>Shon, S., Pasad, A., Wu, F., Brusco, P., Artzi, Y., Livescu, K., & Han, K. J. (2022). Slue: new benchmark tasks for spoken language understanding evaluation on natural speech. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7927–7931).</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Speech+sentiment+analysis+using+a+speech+sentiment+classifier+pretrained+with+pseudo+sentiment+labels')"><td>2022</td><td>Brusco, P., Pan, J., & Han, K. J. (2022 , December 6). Speech sentiment analysis using a speech sentiment classifier pretrained with pseudo sentiment labels. US Patent 11,521,639.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Leveraging+pre-trained+language+model+for+speech+sentiment+analysis')"><td>2021</td><td>Shon, S., Brusco, P., Pan, J., Han, K. J., & Watanabe, S. (2021). Leveraging pre-trained language model for speech sentiment analysis. arXiv preprint arXiv:2106.06598.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Estudio+transling%7B%5C%22u%7D%7B%5C%27%5Ci%7Dstico+de+pistas+del+manejo+de+turnos+en+di%7B%5C%27a%7Dlogos+hablados')"><td>2021</td><td>Brusco, P. (2021). Estudio translingüístico de pistas del manejo de turnos en diálogos hablados (Doctoral dissertation). Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Brain+representation+of+acoustic+features+during+goal-oriented+dialogues')"><td>2021</td><td>Gonzalez, J., Nieto, N., Veneziano, M., Brusco, P., Gravano, A., & Kamienkowski, J. E. (2021). Brain representation of acoustic features during goal-oriented dialogues. XXII Simposio Argentino de Inteligencia artificial (ASSAI 2021)-JAIIO 50 (Modalidad virtual).</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Zero-shot+multi-domain+dialog+state+tracking+using+descriptive+rules')"><td>2020</td><td>Altszyler, E., Brusco, P., Basiou, N., Byrnes, J., & Vergyri, D. (2020). Zero-shot multi-domain dialog state tracking using descriptive rules. arXiv preprint arXiv:2009.13275.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=A+cross-linguistic+analysis+of+the+temporal+dynamics+of+turn-taking+cues+using+machine+learning+as+a+descriptive+tool')"><td>2020</td><td>Brusco, P., Vidal, J., Beňuš, Š., & Gravano, A. (2020). A cross-linguistic analysis of the temporal dynamics of turn-taking cues using machine learning as a descriptive tool. Speech Communication, 125, 24–40.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Cross-Linguistic+Study+of+the+Production+of+Turn-Taking+Cues+in+American+English+and+Argentine+Spanish.')"><td>2017</td><td>Brusco, P., Pérez, J. M., & Gravano, A. (2017). Cross-linguistic study of the production of turn-taking cues in american english and argentine spanish. Interspeech (pp. 2351–2355).</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Who+Do+You+Think+Will+Speak+Next%3F+Perception+of+Turn-Taking+Cues+in+Slovak+and+Argentine+Spanish')"><td>2016</td><td>Gravano, A., Brusco, P., & Beňuš, Š. (2016). Who do you think will speak next? perception of turn-taking cues in slovak and argentine spanish. Interspeech 2016, pp. 1265–1269.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=An%7B%5C%27a%7Dlisis+de+la+din%7B%5C%27a%7Dmica+del+contenido+sem%7B%5C%27a%7Dntico+de+textos')"><td>2015</td><td>Altszyler, E., & Brusco, P. (2015). Análisis de la dinámica del contenido semántico de textos. Argentine Symposium on Artificial Intelligence (ASAI 2015)-JAIIO 44 (Rosario, 2015).</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Keyword+spotting+en+idiomas+sin+datos+de+entrenamiento')"><td>2014</td><td>Brusco, P. (2014). Keyword spotting en idiomas sin datos de entrenamiento (Doctoral dissertation). Universidad de Buenos Aires.</td></tr><tr data-name="Pablo_Brusco" onclick="openUrl('https://scholar.google.com/scholar?q=Detecci%7B%5C%27o%7Dn+de+palabras+claves+en+lenguajes+sin+datos+de+entrenamiento')"><td>2014</td><td>Brusco, P., Ferrer, L., & Gravano, A. (2014). Detección de palabras claves en lenguajes sin datos de entrenamiento. XX Congreso Argentino de Ciencias de la Computación (Buenos Aires, 2014).</td></tr>
+        </table>
+        </body>
+        </html>
+        
