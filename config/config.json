@@ -1,15 +1,35 @@
 {
     "output_dir": "output",
     "users": [{
+            "method": "bibtex",
+            "bibtex_file": "refs/riera.bib",
+            "name": "Pablo Riera"
+        },
+        {
+            "method": "scholar",
             "user_id": "E6U3rCYAAAAJ",
             "code": "APQ9KKMAAAAAZ6OYwJnurv1jdq1yzYLDvJg9-3Q",
             "name": "Pablo Riera"
         },
         {
+            "method": "scholar",
             "user_id": "I1V5uaMAAAAJ",
             "code": "APQ9KKMAAAAAZ6Os1P9u6OynghdxY2hz0Dd5rQM",
             "name": "Jazmin Vidal Dominguez"
+        },
+        {
+            "method": "scholar",
+            "user_id": "o5lqAukAAAAJ",
+            "code": "APQ9KKMAAAAAZ6QCj8b_8KoclHYyKOVgmVZonqs",
+            "name": "Bruno Bianchi"
+        },
+        {
+            "method": "scholar",
+            "user_id": "ArqlkTUAAAAJ",
+            "code": "APQ9KKMAAAAAZ6QCP82ViiXS1jxvrTKbEt_tXvs",
+            "name": "Enzo Ferrante"
         }
+
     ],
     "style": "apa",
     "mandatory_fields": ["year"]

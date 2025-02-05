@@ -3,6 +3,8 @@ import json
 import os
 from typing import Dict, List, Tuple, Any
 import argparse
+
+from scholar2bibtex.utils import remove_duplicates
 from ..utils.downloader import CitationDownloader
 from ..utils.renderer import CitationRenderer
 
@@ -35,16 +37,23 @@ def main():
         downloader = CitationDownloader()
         renderer = CitationRenderer(style_name=style)
 
-        user_id = citation['user_id']
-        code = citation['code']
-        name = citation.get('name', user_id)
+        name = citation.get('name').replace(" ", "_")
+        method = citation['method']
         
-        print(f"Processing citations for {name}...")
+        print(f"Processing citations for {name}, method: {method}")
         
-        # Download BibTeX file
-        bibtex_file = downloader.download_citations(user_id, code, output_dir)
-        if not bibtex_file:
-            print(f"Failed to download citations for {name}")
+        if method == 'scholar':
+            user_id = citation['user_id']
+            code = citation['code']
+            # Download BibTeX file
+            bibtex_file = downloader.download_citations(user_id, code, output_dir)
+            if not bibtex_file:
+                print(f"Failed to download citations for {name}")
+                continue
+        elif method == 'bibtex':
+            bibtex_file = citation['bibtex_file']
+        else:
+            print(f"Invalid method: {method}")
             continue
             
         # Load and render citations
@@ -52,8 +61,8 @@ def main():
         citations, entries = renderer.render_citations(bib_data, mandatory_fields=mandatory_fields)
         
         # Generate individual HTML and JSON
-        html_file = os.path.join(output_dir, f"{user_id}.html")
-        json_file = os.path.join(output_dir, f"{user_id}.json")
+        html_file = os.path.join(output_dir, f"{name}_{method}.html")
+        json_file = os.path.join(output_dir, f"{name}_{method}.json")
         
         output_path = renderer.generate_html(citations, html_file, title=f"Citations for {name}")
         renderer.save_json(entries, json_file)
@@ -66,6 +75,10 @@ def main():
         all_citations.extend(citations)
         all_entries.extend(entries)
     
+    # Remove duplicates
+    all_citations, all_entries = remove_duplicates(all_citations, all_entries)
+
+
     # Generate combined files
     if all_citations:
         # Initialize components
