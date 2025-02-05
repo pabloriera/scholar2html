@@ -1,0 +1,2499 @@
+[
+  {
+    "key": "ferrante2025open",
+    "type": "incollection",
+    "fields": {
+      "title": "Open Challenges on Fairness of Artificial Intelligence in Medical Imaging Applications",
+      "booktitle": "Trustworthy AI in Medical Imaging Book (MICCAI Book Series)",
+      "year": "2025",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Echeveste, Rodrigo"
+      ]
+    },
+    "year": 2025,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., & Echeveste, R. (2025). Open challenges on fairness of artificial intelligence in medical imaging applications. Trustworthy AI in Medical Imaging Book (MICCAI Book Series). Elsevier."
+  },
+  {
+    "key": "jimenez2025picture",
+    "type": "article",
+    "fields": {
+      "title": "In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review",
+      "journal": "arXiv preprint arXiv:2501.10727",
+      "year": "2025"
+    },
+    "persons": {
+      "author": [
+        "Jim{\\'e}nez-S{\\'a}nchez, Amelia",
+        "Avlona, Natalia-Rozalia",
+        "de Boer, Sarah",
+        "Campello, V{\\'\\i}ctor M",
+        "Feragen, Aasa",
+        "Ferrante, Enzo",
+        "Ganz, Melanie",
+        "Gichoya, Judy Wawira",
+        "Gonz{\\'a}lez, Camila",
+        "Groefsema, Steff",
+        "others"
+      ]
+    },
+    "year": 2025,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Jiménez-Sánchez, A., Avlona, N.-R., de Boer, S., Campello, V. M., Feragen, A., Ferrante, E., … others. (2025). In the picture: medical imaging datasets, artifacts, and their living review. arXiv preprint arXiv:2501.10727."
+  },
+  {
+    "key": "claucich2025fairness",
+    "type": "article",
+    "fields": {
+      "title": "Fairness of Deep Ensembles: On the interplay between per-group task difficulty and under-representation",
+      "journal": "arXiv preprint arXiv:2501.14551",
+      "year": "2025"
+    },
+    "persons": {
+      "author": [
+        "Claucich, Estanislao",
+        "Hooker, Sara",
+        "Milone, Diego H",
+        "Ferrante*, Enzo",
+        "Echeveste*, Rodrigo"
+      ]
+    },
+    "year": 2025,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Claucich, E., Hooker, S., Milone, D. H., Ferrante*, E., & Echeveste*, R. (2025). Fairness of deep ensembles: on the interplay between per-group task difficulty and under-representation. arXiv preprint arXiv:2501.14551."
+  },
+  {
+    "key": "gaggion2024chexmask",
+    "type": "article",
+    "fields": {
+      "title": "CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images",
+      "journal": "Nature Scientific Data",
+      "volume": "11",
+      "number": "1",
+      "pages": "511",
+      "year": "2024",
+      "publisher": "Nature Publishing Group UK"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Mosquera, Candelaria",
+        "Mansilla, Lucas",
+        "Saidman, Julia Mariel",
+        "Aineseder, Martina",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Mosquera, C., Mansilla, L., Saidman, J. M., Aineseder, M., Milone, D. H., & Ferrante, E. (2024). Chexmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images. Nature Scientific Data, 11(1), 511."
+  },
+  {
+    "key": "koch2024domain",
+    "type": "article",
+    "fields": {
+      "title": "Domain Adaptation and Representation Transfer",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Koch, Lisa",
+        "Cardoso, M Jorge",
+        "Ferrante, Enzo",
+        "Kamnitsas, Konstantinos",
+        "Islam, Mobarakol",
+        "Jiang, Meirui",
+        "Rieke, Nicola",
+        "Tsaftaris, Sotirios A",
+        "Yang, Dong"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "sadikine2024deep",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Deep vessel segmentation with joint multi-prior encoding",
+      "booktitle": "2024 IEEE International Symposium on Biomedical Imaging (ISBI)",
+      "pages": "1--5",
+      "year": "2024",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Sadikine, Amine",
+        "Badic, Bogdan",
+        "Ferrante, Enzo",
+        "Noblet, Vincent",
+        "Ballet, Pascal",
+        "Visvikis, Dimitris",
+        "Conze, P-H"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Sadikine, A., Badic, B., Ferrante, E., Noblet, V., Ballet, P., Visvikis, D., & Conze, P.-H. (2024). Deep vessel segmentation with joint multi-prior encoding. 2024 IEEE International Symposium on Biomedical Imaging (ISBI) (pp. 1–5)."
+  },
+  {
+    "key": "mansilla2024demographically",
+    "type": "article",
+    "fields": {
+      "title": "Demographically-Informed Prediction Discrepancy Index: Early Warnings of Demographic Biases for Unlabeled Populations",
+      "journal": "Transactions on Machine Learning Research (TMLR)",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Mansilla, Lucas",
+        "Claucich, Estanislao",
+        "Echeveste, Rodrigo",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mansilla, L., Claucich, E., Echeveste, R., Milone, D. H., & Ferrante, E. (2024). Demographically-informed prediction discrepancy index: early warnings of demographic biases for unlabeled populations. Transactions on Machine Learning Research (TMLR)."
+  },
+  {
+    "key": "juodelyte2024source",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Source Matters: Source Dataset Impact on Model Robustness in Medical Imaging",
+      "booktitle": "MICCAI Workshop on Applications of Medical AI (AMAI) 2024",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Juodelyte, Dovile",
+        "Lu, Yucheng",
+        "Jim{\\'e}nez-S{\\'a}nchez, Amelia",
+        "Bottazzi, Sabrina",
+        "Ferrante, Enzo",
+        "Cheplygina, Veronika"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Juodelyte, D., Lu, Y., Jiménez-Sánchez, A., Bottazzi, S., Ferrante, E., & Cheplygina, V. (2024). Source matters: source dataset impact on model robustness in medical imaging. MICCAI Workshop on Applications of Medical AI (AMAI) 2024."
+  },
+  {
+    "key": "bonazzola2024unsupervised",
+    "type": "article",
+    "fields": {
+      "title": "Unsupervised ensemble-based phenotyping enhances discoverability of genes related to left-ventricular morphology",
+      "journal": "Nature Machine Intelligence",
+      "pages": "1--16",
+      "year": "2024",
+      "publisher": "Nature Publishing Group UK London"
+    },
+    "persons": {
+      "author": [
+        "Bonazzola, Rodrigo",
+        "Ferrante, Enzo",
+        "Ravikumar, Nishant",
+        "Xia, Yan",
+        "Keavney, Bernard",
+        "Plein, Sven",
+        "Syeda-Mahmood, Tanveer",
+        "Frangi, Alejandro F"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Bonazzola, R., Ferrante, E., Ravikumar, N., Xia, Y., Keavney, B., Plein, S., … Frangi, A. F. (2024). Unsupervised ensemble-based phenotyping enhances discoverability of genes related to left-ventricular morphology. Nature Machine Intelligence, pp. 1–16."
+  },
+  {
+    "key": "maldonado2024predicting",
+    "type": "article",
+    "fields": {
+      "title": "Predicting risk of cardiovascular disease using retinal OCT imaging",
+      "journal": "arXiv preprint arXiv:2403.18873",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Maldonado-Garcia, Cynthia",
+        "Bonazzola, Rodrigo",
+        "Ferrante, Enzo",
+        "Julian, Thomas H",
+        "Sergouniotis, Panagiotis I",
+        "Ravikumara, Nishant",
+        "Frangi, Alejandro F"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Maldonado-Garcia, C., Bonazzola, R., Ferrante, E., Julian, T. H., Sergouniotis, P. I., Ravikumara, N., & Frangi, A. F. (2024). Predicting risk of cardiovascular disease using retinal oct imaging. arXiv preprint arXiv:2403.18873."
+  },
+  {
+    "key": "catoni2024uncertainty",
+    "type": "article",
+    "fields": {
+      "title": "Uncertainty in latent representations of variational autoencoders optimized for visual tasks",
+      "journal": "arXiv preprint arXiv:2404.15390",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Catoni, Josefina",
+        "Ferrante, Enzo",
+        "Milone, Diego H",
+        "Echeveste, Rodrigo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Catoni, J., Ferrante, E., Milone, D. H., & Echeveste, R. (2024). Uncertainty in latent representations of variational autoencoders optimized for visual tasks. arXiv preprint arXiv:2404.15390."
+  },
+  {
+    "key": "mosquera2024class",
+    "type": "article",
+    "fields": {
+      "title": "Class imbalance on medical image classification: Towards better evaluation practices for discrimination and calibration performance",
+      "journal": "European Radiology",
+      "volume": "34",
+      "number": "12",
+      "pages": "7895--7903",
+      "year": "2024",
+      "publisher": "Springer Berlin Heidelberg Berlin/Heidelberg"
+    },
+    "persons": {
+      "author": [
+        "Mosquera, Candelaria",
+        "Ferrer, Luciana",
+        "Milone, Diego H",
+        "Luna, Daniel",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mosquera, C., Ferrer, L., Milone, D. H., Luna, D., & Ferrante, E. (2024). Class imbalance on medical image classification: towards better evaluation practices for discrimination and calibration performance. European Radiology, 34(12), 7895–7903."
+  },
+  {
+    "key": "marani2024vig",
+    "type": "inproceedings",
+    "fields": {
+      "title": "ViG-Bias: Visually Grounded Bias Discovery and Mitigation",
+      "booktitle": "ECCV 2024: European Conference on Computer Vision",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Marani, Badr-Eddine",
+        "Hanini, Mohamed",
+        "Malayarukil, Nihitha",
+        "Christodoulidis, Stergios",
+        "Vakalopoulou, Maria",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Marani, B.-E., Hanini, M., Malayarukil, N., Christodoulidis, S., Vakalopoulou, M., & Ferrante, E. (2024). Vig-bias: visually grounded bias discovery and mitigation. ECCV 2024: European Conference on Computer Vision."
+  },
+  {
+    "key": "chaves2024brain",
+    "type": "article",
+    "fields": {
+      "title": "Brain Atrophy in Multiple Sclerosis: Does AI-Assisted Measurement Shape Clinical Decisions?",
+      "journal": "Preprint",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Chaves, Hernan",
+        "Shalom, Diego",
+        "Anan{\\'\\i}a, Pilar",
+        "Rueda, Fernanda",
+        "Mur{\\'u}a, Sof{\\'\\i}a Rodr{\\'\\i}guez",
+        "Kitamura, Felipe Campos",
+        "Marrodan, Mariano",
+        "Ysrraelit, Mar{\\'\\i}a C{\\'e}lica",
+        "Cejas, Claudia",
+        "Correale, Jorge",
+        "others"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Chaves, H., Shalom, D., Ananía, P., Rueda, F., Murúa, S. R., Kitamura, F. C., … others. (2024). Brain atrophy in multiple sclerosis: does ai-assisted measurement shape clinical decisions? Preprint."
+  },
+  {
+    "key": "gaggion2024fitting",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Fitting Skeletal Models via Graph-Based Learning",
+      "booktitle": "2024 IEEE International Symposium on Biomedical Imaging (ISBI)",
+      "pages": "1--4",
+      "year": "2024",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Ferrante, Enzo",
+        "Paniagua, Beatriz",
+        "Vicory, Jared"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Ferrante, E., Paniagua, B., & Vicory, J. (2024). Fitting skeletal models via graph-based learning. 2024 IEEE International Symposium on Biomedical Imaging (ISBI) (pp. 1–4)."
+  },
+  {
+    "key": "puyol2024ethics",
+    "type": "misc",
+    "fields": {
+      "title": "Ethics and Fairness in Medical Imaging",
+      "year": "2024",
+      "publisher": "Springer"
+    },
+    "persons": {
+      "author": [
+        "Puyol-Ant{\\'o}n, Esther",
+        "Zamzmi, Ghada",
+        "Feragen, Aasa",
+        "King, Andrew P",
+        "Cheplygina, Veronika",
+        "Ganz-Benjaminsen, Melanie",
+        "Ferrante, Enzo",
+        "Glocker, Ben",
+        "Petersen, Eike",
+        "Baxter, John SH",
+        "others"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Puyol-Antón, E., Zamzmi, G., Feragen, A., King, A. P., Cheplygina, V., Ganz-Benjaminsen, M., … others (2024). Ethics and Fairness in Medical Imaging."
+  },
+  {
+    "key": "bianco2024signattention",
+    "type": "inproceedings",
+    "fields": {
+      "title": "SignAttention: On the Interpretability of Transformer Models for Sign Language Translation",
+      "booktitle": "NeurIPS 2024 Interpretable AI Workshop (IAI)",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Bianco, Pedro Alejandro Dal",
+        "Stanchi, Oscar Agust{\\'\\i}n",
+        "Quiroga, Facundo Manuel",
+        "Ronchetti, Franco",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Bianco, P. A. D., Stanchi, O. A., Quiroga, F. M., Ronchetti, F., & Ferrante, E. (2024). Signattention: on the interpretability of transformer models for sign language translation. NeurIPS 2024 Interpretable AI Workshop (IAI)."
+  },
+  {
+    "key": "azcuy2024machine",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Machine Learning for Moisture Retrieval Using Landsat and SAOCOM Images",
+      "booktitle": "2024 IEEE Biennial Congress of Argentina (ARGENCON)",
+      "pages": "1--6",
+      "year": "2024",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Azcuy, Reiman Alfonso",
+        "Venturini, Virginia",
+        "Walker, Elisabet",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Azcuy, R. A., Venturini, V., Walker, E., & Ferrante, E. (2024). Machine learning for moisture retrieval using landsat and saocom images. 2024 IEEE Biennial Congress of Argentina (ARGENCON) (pp. 1–6)."
+  },
+  {
+    "key": "singh2024global",
+    "type": "article",
+    "fields": {
+      "title": "Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation",
+      "journal": "arXiv preprint arXiv:2412.03304",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Singh, Shivalika",
+        "Romanou, Angelika",
+        "Fourrier, Cl{\\'e}mentine",
+        "Adelani, David I",
+        "Ngui, Jian Gang",
+        "Vila-Suero, Daniel",
+        "Limkonchotiwat, Peerat",
+        "Marchisio, Kelly",
+        "Leong, Wei Qi",
+        "Susanto, Yosephine",
+        "others"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Singh, S., Romanou, A., Fourrier, C., Adelani, D. I., Ngui, J. G., Vila-Suero, D., … others. (2024). Global mmlu: understanding and addressing cultural and linguistic biases in multilingual evaluation. arXiv preprint arXiv:2412.03304."
+  },
+  {
+    "key": "lopes2024improving",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Improving Endoscopy Lesion Classification Using Self-Supervised Deep Learning",
+      "booktitle": "2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "pages": "1--4",
+      "year": "2024",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Lopes, In{\\^e}s",
+        "Vakalopoulou, Maria",
+        "Ferrante, Enzo",
+        "Lib{\\^a}nio, Diogo",
+        "Dinis-Ribeiro, M{\\'a}rio",
+        "Coimbra, Miguel",
+        "Renna, Francesco"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Lopes, I., Vakalopoulou, M., Ferrante, E., Libânio, D., Dinis-Ribeiro, M., Coimbra, M., & Renna, F. (2024). Improving endoscopy lesion classification using self-supervised deep learning. 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 1–4)."
+  },
+  {
+    "key": "juodelyte2024dataset",
+    "type": "article",
+    "fields": {
+      "title": "On dataset transferability in medical image classification",
+      "journal": "arXiv preprint arXiv:2412.20172",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Juodelyte, Dovile",
+        "Ferrante, Enzo",
+        "Lu, Yucheng",
+        "Singh, Prabhant",
+        "Vanschoren, Joaquin",
+        "Cheplygina, Veronika"
+      ]
+    },
+    "year": 2024,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Juodelyte, D., Ferrante, E., Lu, Y., Singh, P., Vanschoren, J., & Cheplygina, V. (2024). On dataset transferability in medical image classification. arXiv preprint arXiv:2412.20172."
+  },
+  {
+    "key": "larrazabal2023maximum",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Maximum Entropy on Erroneous Predictions (MEEP): Improving model calibration for medical image segmentation",
+      "booktitle": "MICCAI 2023: International Conference on Medical Image Computing and Computer Assisted Interventions",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Larrazabal, Agostina",
+        "Martinez, Cesar",
+        "Dolz, Jose",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Larrazabal, A., Martinez, C., Dolz, J., & Ferrante, E. (2023). Maximum entropy on erroneous predictions (meep): improving model calibration for medical image segmentation. MICCAI 2023: International Conference on Medical Image Computing and Computer Assisted Interventions."
+  },
+  {
+    "key": "young2023supervision",
+    "type": "article",
+    "fields": {
+      "title": "Supervision by Denoising",
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
+      "year": "2023",
+      "publisher": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Young, Sean I",
+        "Dalca, Adrian V",
+        "Ferrante, Enzo",
+        "Golland, Polina",
+        "Metzler, Christopher A",
+        "Fischl, Bruce",
+        "Iglesias, Juan Eugenio"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Young, S. I., Dalca, A. V., Ferrante, E., Golland, P., Metzler, C. A., Fischl, B., & Iglesias, J. E. (2023). Supervision by denoising. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)."
+  },
+  {
+    "key": "gaggion2023multi_1",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Multi-center anatomical segmentation with heterogeneous labels via landmark-based models",
+      "booktitle": "IEEE ISBI 2023: International Symposium on Biomedical Imaging",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Vakalopoulou, Maria",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Vakalopoulou, M., Milone, D. H., & Ferrante, E. (2023). Multi-center anatomical segmentation with heterogeneous labels via landmark-based models. IEEE ISBI 2023: International Symposium on Biomedical Imaging."
+  },
+  {
+    "key": "barrios2023transcription",
+    "type": "article",
+    "fields": {
+      "title": "The transcription factor NF-YA10 determines the area explored by Arabidopsis thaliana roots through direct regulation of LAZY and TAC genes",
+      "journal": "bioRxiv",
+      "pages": "2023--04",
+      "year": "2023",
+      "publisher": "Cold Spring Harbor Laboratory"
+    },
+    "persons": {
+      "author": [
+        "Barrios, Andana",
+        "Gaggion, Nicolas",
+        "Mansilla, Natanael",
+        "Lucero, Leandro",
+        "Blein, Thomas",
+        "Sorin, C{\\'e}line",
+        "Ferrante, Enzo",
+        "Crespi, Martin",
+        "Ariel, Federico D"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Barrios, A., Gaggion, N., Mansilla, N., Lucero, L., Blein, T., Sorin, C., … Ariel, F. D. (2023). The transcription factor nf-ya10 determines the area explored by arabidopsis thaliana roots through direct regulation of lazy and tac genes. bioRxiv, pp. 2023–04."
+  },
+  {
+    "key": "petersen2023demographically",
+    "type": "article",
+    "fields": {
+      "title": "Are demographically invariant models and representations in medical imaging fair?",
+      "journal": "arXiv preprint arXiv:2305.01397",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Petersen, Eike",
+        "Ferrante, Enzo",
+        "Ganz, Melanie",
+        "Feragen, Aasa"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Petersen, E., Ferrante, E., Ganz, M., & Feragen, A. (2023). Are demographically invariant models and representations in medical imaging fair? arXiv preprint arXiv:2305.01397."
+  },
+  {
+    "key": "lara2023towards",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Towards unraveling calibration biases in medical image analysis",
+      "booktitle": "MICCAI FAIMI Workshop: Fairness of AI in Medical Imaging",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Lara, Mar{\\'\\i}a Agustina Ricci",
+        "Mosquera, Candelaria",
+        "Ferrante, Enzo",
+        "Echeveste, Rodrigo"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Lara, M. A. R., Mosquera, C., Ferrante, E., & Echeveste, R. (2023). Towards unraveling calibration biases in medical image analysis. MICCAI FAIMI Workshop: Fairness of AI in Medical Imaging."
+  },
+  {
+    "key": "peterson2023deep",
+    "type": "article",
+    "fields": {
+      "title": "Deep net detection and onset prediction of electrographic seizure patterns in responsive neurostimulation",
+      "journal": "Epilepsia",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Peterson, Victoria",
+        "Kokkinos, Vasileios",
+        "Ferrante, Enzo",
+        "Walton, Ashley",
+        "Merk, Timon",
+        "Hadanny, Amir",
+        "Saravanan, Varun",
+        "Sisterson, Nathaniel",
+        "Zaher, Naoir",
+        "Urban, Alexandra",
+        "others"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Peterson, V., Kokkinos, V., Ferrante, E., Walton, A., Merk, T., Hadanny, A., … others. (2023). Deep net detection and onset prediction of electrographic seizure patterns in responsive neurostimulation. Epilepsia."
+  },
+  {
+    "key": "ktena2023machine",
+    "type": "incollection",
+    "fields": {
+      "title": "Machine learning in connectomics: from representation learning to model fitting",
+      "booktitle": "Connectome Analysis",
+      "pages": "267--287",
+      "year": "2023",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Ktena, Sofia Ira",
+        "Sotiras, Aristeidis",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ktena, S. I., Sotiras, A., & Ferrante, E. (2023). Machine learning in connectomics: from representation learning to model fitting. Connectome Analysis (pp. 267–287). Elsevier."
+  },
+  {
+    "key": "chaves2023assessing",
+    "type": "article",
+    "fields": {
+      "title": "Assessing robustness and generalization of a deep neural network for brain MS lesion segmentation on real-world data",
+      "journal": "European Radiology",
+      "volume": "34",
+      "number": "3",
+      "pages": "2024--2035",
+      "year": "2023",
+      "publisher": "Springer Berlin Heidelberg"
+    },
+    "persons": {
+      "author": [
+        "Chaves, Hern{\\'a}n",
+        "Serra, Mar{\\'\\i}a M",
+        "Shalom, Diego E",
+        "Anan{\\'\\i}a, Pilar",
+        "Rueda, Fernanda",
+        "Osa Sanz, Emilia",
+        "Stefanoff, Nadia I",
+        "Rodr{\\'\\i}guez Mur{\\'u}a, Sof{\\'\\i}a",
+        "Costa, Mart{\\'\\i}n E",
+        "Kitamura, Felipe C",
+        "others"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Chaves, H., Serra, M. M., Shalom, D. E., Ananía, P., Rueda, F., Osa Sanz, E., … others. (2023). Assessing robustness and generalization of a deep neural network for brain ms lesion segmentation on real-world data. European Radiology, 34(3), 2024–2035."
+  },
+  {
+    "key": "gaggion2023unsupervised",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Unsupervised bias discovery in medical image segmentation",
+      "booktitle": "MICCAI FAIMI Workshop: Fairness of AI in Medical Imaging",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Echeveste, Rodrigo",
+        "Mansilla, Lucas",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Echeveste, R., Mansilla, L., Milone, D. H., & Ferrante, E. (2023). Unsupervised bias discovery in medical image segmentation. MICCAI FAIMI Workshop: Fairness of AI in Medical Imaging."
+  },
+  {
+    "key": "lekadir2023future",
+    "type": "article",
+    "fields": {
+      "title": "FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare",
+      "journal": "arXiv preprint arXiv:2309.12325",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Lekadir, Karim",
+        "Feragen, Aasa",
+        "Fofanah, Abdul Joseph",
+        "Frangi, Alejandro F",
+        "Buyx, Alena",
+        "Emelie, Anais",
+        "Lara, Andrea",
+        "Porras, Antonio R",
+        "Chan, An-Wen",
+        "Navarro, Arcadi",
+        "others"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Lekadir, K., Feragen, A., Fofanah, A. J., Frangi, A. F., Buyx, A., Emelie, A., … others. (2023). Future-ai: international consensus guideline for trustworthy and deployable artificial intelligence in healthcare. arXiv preprint arXiv:2309.12325."
+  },
+  {
+    "key": "gaggion2023multi_2",
+    "type": "article",
+    "fields": {
+      "title": "Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI",
+      "journal": "arXiv preprint arXiv:2311.13706",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Matheson, Benjamin A",
+        "Xia, Yan",
+        "Bonazzola, Rodrigo",
+        "Ravikumar, Nishant",
+        "Taylor, Zeike A",
+        "Milone, Diego H",
+        "Frangi, Alejandro F",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Matheson, B. A., Xia, Y., Bonazzola, R., Ravikumar, N., Taylor, Z. A., … Ferrante, E. (2023). Multi-view hybrid graph convolutional network for volume-to-mesh reconstruction in cardiovascular mri. arXiv preprint arXiv:2311.13706."
+  },
+  {
+    "key": "wesarg2023clinical",
+    "type": "book",
+    "fields": {
+      "title": "Clinical Image-Based Procedures, Fairness of AI in Medical Imaging, and Ethical and Philosophical Issues in Medical Imaging: 12th International Workshop, CLIP 2023 1st International Workshop, FAIMI 2023 and 2nd International Workshop, EPIMI 2023 Vancouver, BC, Canada, October 8 and October 12, 2023 Proceedings",
+      "volume": "14242",
+      "year": "2023",
+      "publisher": "Springer Nature"
+    },
+    "persons": {
+      "author": [
+        "Wesarg, Stefan",
+        "Ant{\\'o}n, Esther Puyol",
+        "Baxter, John SH",
+        "Erdt, Marius",
+        "Drechsler, Klaus",
+        "Laura, Cristina Oyarzun",
+        "Freiman, Moti",
+        "Chen, Yufei",
+        "Rekik, Islem",
+        "Eagleson, Roy",
+        "others"
+      ]
+    },
+    "year": 2023,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Wesarg, S., Antón, E. P., Baxter, J. S., Erdt, M., Drechsler, K., Laura, C. O., … others. (2023). Clinical Image-Based Procedures, Fairness of AI in Medical Imaging, and Ethical and Philosophical Issues in Medical Imaging: 12th International Workshop, CLIP 2023 1st International Workshop, FAIMI 2023 and 2nd International Workshop, EPIMI 2023 Vancouver, BC, Canada, October 8 and October 12, 2023 Proceedings. Vol. 14242. Springer Nature."
+  },
+  {
+    "key": "echeveste2022bridging",
+    "type": "article",
+    "fields": {
+      "title": "Bridging physiological and perceptual views of autism by means of sampling-based Bayesian inference",
+      "journal": "Network Neuroscience",
+      "pages": "1--27",
+      "year": "2022",
+      "publisher": "MIT Press"
+    },
+    "persons": {
+      "author": [
+        "Echeveste, Rodrigo",
+        "Ferrante, Enzo",
+        "Milone, Diego H",
+        "Samengo, In{\\'e}s"
+      ]
+    },
+    "year": 2022,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Echeveste, R., Ferrante, E., Milone, D. H., & Samengo, I. (2022). Bridging physiological and perceptual views of autism by means of sampling-based bayesian inference. Network Neuroscience, pp. 1–27."
+  },
+  {
+    "key": "mosquera2022understanding",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Understanding the impact of class imbalance on the performance of chest x-ray image classifiers",
+      "booktitle": "ACM CHIL 2022: Conference on Health, Inference, and Learning (Non-archival presentation)",
+      "year": "2022"
+    },
+    "persons": {
+      "author": [
+        "Mosquera, Candelaria",
+        "Ferrer, Luciana",
+        "Milone, Diego",
+        "Luna, Daniel",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2022,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mosquera, C., Ferrer, L., Milone, D., Luna, D., & Ferrante, E. (2022). Understanding the impact of class imbalance on the performance of chest x-ray image classifiers. ACM CHIL 2022: Conference on Health, Inference, and Learning (Non-archival presentation)."
+  },
+  {
+    "key": "gaggion2022improving",
+    "type": "article",
+    "fields": {
+      "title": "Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis",
+      "journal": "IEEE Transactions on Medical Imaging",
+      "year": "2022"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Mansilla, Lucas",
+        "Mosquera, Candelaria",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2022,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Mansilla, L., Mosquera, C., Milone, D. H., & Ferrante, E. (2022). Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis. IEEE Transactions on Medical Imaging."
+  },
+  {
+    "key": "ricci2022addressing",
+    "type": "article",
+    "fields": {
+      "title": "Addressing fairness in artificial intelligence for medical imaging",
+      "journal": "nature communications",
+      "volume": "13",
+      "number": "1",
+      "pages": "4581",
+      "year": "2022",
+      "publisher": "Nature Publishing Group UK London"
+    },
+    "persons": {
+      "author": [
+        "Ricci Lara, Mar{\\'\\i}a Agustina",
+        "Echeveste, Rodrigo",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2022,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ricci Lara, M. A., Echeveste, R., & Ferrante, E. (2022). Addressing fairness in artificial intelligence for medical imaging. nature communications, 13(1), 4581."
+  },
+  {
+    "key": "ferrante2022aprendizaje",
+    "type": "misc",
+    "fields": {
+      "title": "?`Aprendizaje autom{\\'a}gico?: Un viaje al coraz{\\'o}n de la inteligencia artificial contempor{\\'a}nea",
+      "year": "2022",
+      "publisher": "Universidad Nacional del Litoral"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Milone, Diego",
+        "Stegmayer, Georgina",
+        "Fernandez Slezak, Diego",
+        "Alonso Alemany, Laura",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2022,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Milone, D., Stegmayer, G., Fernandez Slezak, D., Alonso Alemany, L., & Ferrer, L. (2022). ¿Aprendizaje automágico?: Un viaje al corazón de la inteligencia artificial contemporánea."
+  },
+  {
+    "key": "hering2022biomedical",
+    "type": "book",
+    "fields": {
+      "title": "Biomedical Image Registration: 10th International Workshop, WBIR 2022, Munich, Germany, July 10--12, 2022, Proceedings",
+      "volume": "13386",
+      "year": "2022",
+      "publisher": "Springer Nature"
+    },
+    "persons": {
+      "author": [
+        "Hering, Alessa",
+        "Schnabel, Julia",
+        "Zhang, Miaomiao",
+        "Ferrante, Enzo",
+        "Heinrich, Mattias",
+        "Rueckert, Daniel"
+      ]
+    },
+    "year": 2022,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Hering, A., Schnabel, J., Zhang, M., Ferrante, E., Heinrich, M., & Rueckert, D. (2022). Biomedical Image Registration: 10th International Workshop, WBIR 2022, Munich, Germany, July 10–12, 2022, Proceedings. Vol. 13386. Springer Nature."
+  },
+  {
+    "key": "gaggion2021chronoroot",
+    "type": "article",
+    "fields": {
+      "title": "ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture",
+      "journal": "GigaScience",
+      "volume": "10",
+      "number": "7",
+      "pages": "giab052",
+      "year": "2021",
+      "publisher": "Oxford University Press"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Ariel, Federico",
+        "Daric, Vladimir",
+        "Lambert, Eric",
+        "Legendre, Simon",
+        "Roul{\\'e}, Thomas",
+        "Camoirano, Alejandra",
+        "Milone, Diego H",
+        "Crespi, Martin",
+        "Blein, Thomas",
+        "others"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Ariel, F., Daric, V., Lambert, E., Legendre, S., Roulé, T., … others. (2021). Chronoroot: high-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture. GigaScience, 10(7), giab052."
+  },
+  {
+    "key": "xue2021left",
+    "type": "article",
+    "fields": {
+      "title": "Left ventricle quantification challenge: A comprehensive comparison and evaluation of segmentation and regression for mid-ventricular short-axis cardiac MR data",
+      "journal": "IEEE Journal of Biomedical and Health Informatics",
+      "volume": "25",
+      "number": "9",
+      "pages": "3541--3553",
+      "year": "2021",
+      "publisher": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Xue, Wufeng",
+        "Li, Jiahui",
+        "Hu, Zhiqiang",
+        "Kerfoot, Eric",
+        "Clough, James",
+        "Oksuz, Ilkay",
+        "Xu, Hao",
+        "Grau, Vicente",
+        "Guo, Fumin",
+        "Ng, Matthew",
+        "others"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Xue, W., Li, J., Hu, Z., Kerfoot, E., Clough, J., Oksuz, I., … others. (2021). Left ventricle quantification challenge: a comprehensive comparison and evaluation of segmentation and regression for mid-ventricular short-axis cardiac mr data. IEEE Journal of Biomedical and Health Informatics, 25(9), 3541–3553."
+  },
+  {
+    "key": "li2021autoimplant",
+    "type": "article",
+    "fields": {
+      "title": "AutoImplant 2020-first MICCAI challenge on automatic cranial implant design",
+      "journal": "IEEE transactions on medical imaging",
+      "volume": "40",
+      "number": "9",
+      "pages": "2329--2342",
+      "year": "2021",
+      "publisher": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Li, Jianning",
+        "Pimentel, Pedro",
+        "Szengel, Angelika",
+        "Ehlke, Moritz",
+        "Lamecker, Hans",
+        "Zachow, Stefan",
+        "Estacio, Laura",
+        "Doenitz, Christian",
+        "Ramm, Heiko",
+        "Shi, Haochen",
+        "others"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Li, J., Pimentel, P., Szengel, A., Ehlke, M., Lamecker, H., Zachow, S., … others. (2021). Autoimplant 2020-first miccai challenge on automatic cranial implant design. IEEE transactions on medical imaging, 40(9), 2329–2342."
+  },
+  {
+    "key": "larrazabal2021orthogonal",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Orthogonal Ensemble Networks for Biomedical Image Segmentation",
+      "booktitle": "MICCAI 2021: International Conference on Medical Image Computing and Computer Assisted Interventions",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Larrazabal, Agostina J",
+        "Mart{\\'\\i}nez, C{\\'e}sar",
+        "Dolz, Jose",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Larrazabal, A. J., Martínez, C., Dolz, J., & Ferrante, E. (2021). Orthogonal ensemble networks for biomedical image segmentation. MICCAI 2021: International Conference on Medical Image Computing and Computer Assisted Interventions."
+  },
+  {
+    "key": "gaggion2021hybrid",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Hybrid graph convolutional neural networks for landmark-based anatomical segmentation",
+      "booktitle": "MICCAI 2021: International Conference on Medical Image Computing and Computer Assisted Interventions",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Gaggion, Nicol{\\'a}s",
+        "Mansilla, Lucas",
+        "Milone, Diego",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gaggion, N., Mansilla, L., Milone, D., & Ferrante, E. (2021). Hybrid graph convolutional neural networks for landmark-based anatomical segmentation. MICCAI 2021: International Conference on Medical Image Computing and Computer Assisted Interventions."
+  },
+  {
+    "key": "mansilla2021domain",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Domain Generalization via Gradient Surgery",
+      "booktitle": "ICCV 2021: International Conference on Computer Vision",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Mansilla, Lucas",
+        "Echeveste, Rodrigo",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mansilla, L., Echeveste, R., Milone, D. H., & Ferrante, E. (2021). Domain generalization via gradient surgery. ICCV 2021: International Conference on Computer Vision."
+  },
+  {
+    "key": "bonazzola2021image",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Image-Derived Phenotype Extraction for Genetic Discovery via Unsupervised Deep Learning in CMR Images",
+      "booktitle": "MICCAI 2021: International Conference on Medical Image Computing and Computer Assisted Interventions",
+      "pages": "699--708",
+      "year": "2021",
+      "organization": "Springer, Cham"
+    },
+    "persons": {
+      "author": [
+        "Bonazzola, Rodrigo",
+        "Ravikumar, Nishant",
+        "Attar, Rahman",
+        "Ferrante, Enzo",
+        "Syeda-Mahmood, Tanveer",
+        "Frangi, Alejandro F"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Bonazzola, R., Ravikumar, N., Attar, R., Ferrante, E., Syeda-Mahmood, T., & Frangi, A. F. (2021). Image-derived phenotype extraction for genetic discovery via unsupervised deep learning in cmr images. MICCAI 2021: International Conference on Medical Image Computing and Computer Assisted Interventions (pp. 699–708)."
+  },
+  {
+    "key": "nieto2021relationship",
+    "type": "article",
+    "fields": {
+      "title": "On the relationship between research parasites and fairness in machine learning: challenges and opportunities",
+      "journal": "GigaScience",
+      "volume": "10",
+      "number": "12",
+      "pages": "giab086",
+      "year": "2021",
+      "publisher": "Oxford University Press"
+    },
+    "persons": {
+      "author": [
+        "Nieto, Nicol{\\'a}s",
+        "Larrazabal, Agostina",
+        "Peterson, Victoria",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Nieto, N., Larrazabal, A., Peterson, V., Milone, D. H., & Ferrante, E. (2021). On the relationship between research parasites and fairness in machine learning: challenges and opportunities. GigaScience, 10(12), giab086."
+  },
+  {
+    "key": "ferrante2021inteligencia",
+    "type": "article",
+    "fields": {
+      "title": "Inteligencia artificial y sesgos algor{\\'\\i}tmicos ?`Por qu{\\'e} deber{\\'\\i}an importarnos?",
+      "journal": "Nueva sociedad",
+      "number": "294",
+      "pages": "27--36",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2021,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E. (2021). Inteligencia artificial y sesgos algorítmicos ¿por qué deberían importarnos? Nueva sociedad, pp. 27–36."
+  },
+  {
+    "key": "mansilla2020learning",
+    "type": "article",
+    "fields": {
+      "title": "Learning deformable registration of medical images with anatomical constraints",
+      "journal": "Neural Networks",
+      "year": "2020",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Mansilla, Lucas",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks."
+  },
+  {
+    "key": "monteiro2020multiclass",
+    "type": "article",
+    "fields": {
+      "title": "Multiclass semantic segmentation and quantification of traumatic brain injury lesions on head CT using deep learning: an algorithm development and multicentre validation study",
+      "journal": "The Lancet Digital Health",
+      "volume": "2",
+      "number": "6",
+      "pages": "e314--e322",
+      "year": "2020",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Monteiro, Miguel",
+        "Newcombe, Virginia FJ",
+        "Mathieu, Francois",
+        "Adatia, Krishma",
+        "Kamnitsas, Konstantinos",
+        "Ferrante, Enzo",
+        "Das, Tilak",
+        "Whitehouse, Daniel",
+        "Rueckert, Daniel",
+        "Menon, David K",
+        "others"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Monteiro, M., Newcombe, V. F., Mathieu, F., Adatia, K., Kamnitsas, K., Ferrante, E., … others. (2020). Multiclass semantic segmentation and quantification of traumatic brain injury lesions on head ct using deep learning: an algorithm development and multicentre validation study. The Lancet Digital Health, 2(6), e314–e322."
+  },
+  {
+    "key": "larrazabal2020gender",
+    "type": "article",
+    "fields": {
+      "title": "Gender imbalance in medical imaging datasets produces biased classifiers for computer-aided diagnosis",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "117",
+      "number": "23",
+      "pages": "12592--12594",
+      "year": "2020",
+      "publisher": "National Academy of Sciences"
+    },
+    "persons": {
+      "author": [
+        "Larrazabal, Agostina J",
+        "Nieto, Nicol{\\'a}s",
+        "Peterson, Victoria",
+        "Milone, Diego H",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Larrazabal, A. J., Nieto, N., Peterson, V., Milone, D. H., & Ferrante, E. (2020). Gender imbalance in medical imaging datasets produces biased classifiers for computer-aided diagnosis. Proceedings of the National Academy of Sciences, 117(23), 12592–12594."
+  },
+  {
+    "key": "larrazabal2020post",
+    "type": "article",
+    "fields": {
+      "title": "Post-DAE: Anatomically Plausible Segmentation via Post-Processing with Denoising Autoencoders",
+      "journal": "IEEE Transactions on Medical Imaging",
+      "year": "2020",
+      "publisher": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Larrazabal, Agostina J",
+        "Mart{\\'\\i}nez, C{\\'e}sar",
+        "Glocker, Ben",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Larrazabal, A. J., Martínez, C., Glocker, B., & Ferrante, E. (2020). Post-dae: anatomically plausible segmentation via post-processing with denoising autoencoders. IEEE Transactions on Medical Imaging."
+  },
+  {
+    "key": "matzkin2020self",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Self-supervised Skull Reconstruction in Brain CT Images with Decompressive Craniectomy",
+      "booktitle": "MICCAI 2020: International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Matzkin, Franco",
+        "Newcombe, Virginia",
+        "Stevenson, Susan",
+        "Khetani, Aneesh",
+        "Newman, Tom",
+        "Digby, Richard",
+        "Stevens, Andrew",
+        "Glocker, Ben",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Matzkin, F., Newcombe, V., Stevenson, S., Khetani, A., Newman, T., Digby, R., … Ferrante, E. (2020). Self-supervised skull reconstruction in brain ct images with decompressive craniectomy. MICCAI 2020: International Conference on Medical Image Computing and Computer-Assisted Intervention."
+  },
+  {
+    "key": "palladino2020unsupervised",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Unsupervised Domain Adaptation via CycleGAN for White Matter Hyperintensity Segmentation in Multicenter MR Images",
+      "booktitle": "International Symposium on Medical Information Processing and Analysis SIPAIM 2020",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Palladino, Julian Alberto",
+        "Slezak, Diego Fernandez",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Palladino, J. A., Slezak, D. F., & Ferrante, E. (2020). Unsupervised domain adaptation via cyclegan for white matter hyperintensity segmentation in multicenter mr images. International Symposium on Medical Information Processing and Analysis SIPAIM 2020."
+  },
+  {
+    "key": "matzkin2020cranial",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Cranial Implant Design via Virtual Craniectomy with Shape Priors",
+      "booktitle": "MICCAI 2020 Autoimplant Workshop",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Matzkin, Franco",
+        "Newcombe, Virginia",
+        "Glocker, Ben",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Matzkin, F., Newcombe, V., Glocker, B., & Ferrante, E. (2020). Cranial implant design via virtual craniectomy with shape priors. MICCAI 2020 Autoimplant Workshop."
+  },
+  {
+    "key": "fehri2020preface",
+    "type": "article",
+    "fields": {
+      "title": "Preface grail 2020",
+      "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "volume": "12443",
+      "pages": "xi--xii",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Fehri, Hamid",
+        "Sotiras, Aristeidis",
+        "Papiez, Bartlomiej",
+        "Ferrante, Enzo",
+        "Parisot, Sarah"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Fehri, H., Sotiras, A., Papiez, B., Ferrante, E., & Parisot, S. (2020). Preface grail 2020. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12443, xi–xii."
+  },
+  {
+    "key": "sudre2020uncertainty",
+    "type": "book",
+    "fields": {
+      "title": "Uncertainty for Safe Utilization of Machine Learning in Medical Imaging, and Graphs in Biomedical Image Analysis: Second International Workshop, UNSURE 2020, and Third International Workshop, GRAIL 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 8, 2020, Proceedings",
+      "volume": "12443",
+      "year": "2020",
+      "publisher": "Springer Nature"
+    },
+    "persons": {
+      "author": [
+        "Sudre, Carole H",
+        "Fehri, Hamid",
+        "Arbel, Tal",
+        "Baumgartner, Christian F",
+        "Dalca, Adrian",
+        "Tanno, Ryutaro",
+        "Van Leemput, Koen",
+        "Wells, William M",
+        "Sotiras, Aristeidis",
+        "Papiez, Bartlomiej",
+        "others"
+      ]
+    },
+    "year": 2020,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Sudre, C. H., Fehri, H., Arbel, T., Baumgartner, C. F., Dalca, A., Tanno, R., … others. (2020). Uncertainty for Safe Utilization of Machine Learning in Medical Imaging, and Graphs in Biomedical Image Analysis: Second International Workshop, UNSURE 2020, and Third International Workshop, GRAIL 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 8, 2020, Proceedings. Vol. 12443. Springer Nature."
+  },
+  {
+    "key": "ferrante2019weakly",
+    "type": "article",
+    "fields": {
+      "title": "Weakly-Supervised Learning of Metric Aggregations for Deformable Image Registration",
+      "journal": "IEEE Journal of Biomedical and Health Informatics",
+      "volume": "23",
+      "number": "4",
+      "pages": "1374--1384",
+      "year": "2019",
+      "publisher": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Dokania, Puneet Kumar",
+        "Silva, Rafael Marini",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2019,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Dokania, P. K., Silva, R. M., & Paragios, N. (2019). Weakly-supervised learning of metric aggregations for deformable image registration. IEEE Journal of Biomedical and Health Informatics, 23(4), 1374–1384."
+  },
+  {
+    "key": "roulet2019joint",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Joint Learning of Brain Lesion and Anatomy Segmentation from Heterogeneous Datasets",
+      "booktitle": "MIDL 2019: Medical Imaging with Deep Learning Conference",
+      "year": "2019"
+    },
+    "persons": {
+      "author": [
+        "Roulet, Nicolas",
+        "Slezak, Diego Fernandez",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2019,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Roulet, N., Slezak, D. F., & Ferrante, E. (2019). Joint learning of brain lesion and anatomy segmentation from heterogeneous datasets. MIDL 2019: Medical Imaging with Deep Learning Conference."
+  },
+  {
+    "key": "larrazabal2019anatomical",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Anatomical Priors for Image Segmentation via Post-Processing with Denoising Autoencoders",
+      "booktitle": "MICCAI 2019: International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": "2019"
+    },
+    "persons": {
+      "author": [
+        "Larrazabal, Agostina J",
+        "Martinez, Cesar",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2019,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Larrazabal, A. J., Martinez, C., & Ferrante, E. (2019). Anatomical priors for image segmentation via post-processing with denoising autoencoders. MICCAI 2019: International Conference on Medical Image Computing and Computer-Assisted Intervention."
+  },
+  {
+    "key": "bhalodiya2019hierarchical",
+    "type": "article",
+    "fields": {
+      "title": "Hierarchical template matching for 3D myocardial tracking and cardiac strain estimation",
+      "journal": "Scientific Reports",
+      "volume": "9",
+      "number": "1",
+      "pages": "12450",
+      "year": "2019",
+      "publisher": "Nature Publishing Group UK London"
+    },
+    "persons": {
+      "author": [
+        "Bhalodiya, Jayendra M",
+        "Palit, Arnab",
+        "Ferrante, Enzo",
+        "Tiwari, Manoj K",
+        "Bhudia, Sunil K",
+        "Arvanitis, Theodoros N",
+        "Williams, Mark A"
+      ]
+    },
+    "year": 2019,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Bhalodiya, J. M., Palit, A., Ferrante, E., Tiwari, M. K., Bhudia, S. K., Arvanitis, T. N., & Williams, M. A. (2019). Hierarchical template matching for 3d myocardial tracking and cardiac strain estimation. Scientific Reports, 9(1), 12450."
+  },
+  {
+    "key": "monteiro2019tbi",
+    "type": "inproceedings",
+    "fields": {
+      "title": "TBI Lesion Segmentation in Head CT: Impact of Preprocessing and Data Augmentation",
+      "booktitle": "MICCAI Brain Lesion Workshop",
+      "year": "2019"
+    },
+    "persons": {
+      "author": [
+        "Monteiro, Miguel",
+        "Kamnitsas, Konstantinos",
+        "Ferrante, Enzo",
+        "Mathieu, Francois",
+        "McDonagh, Steven",
+        "Cook, Sam",
+        "Stevenson, Susan",
+        "Das, Tilak",
+        "Khetani, Aneesh",
+        "Newman, Tom",
+        "others"
+      ]
+    },
+    "year": 2019,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Monteiro, M., Kamnitsas, K., Ferrante, E., Mathieu, F., McDonagh, S., Cook, S., … others. (2019). Tbi lesion segmentation in head ct: impact of preprocessing and data augmentation. MICCAI Brain Lesion Workshop."
+  },
+  {
+    "key": "ktena2018metric",
+    "type": "article",
+    "fields": {
+      "title": "Metric learning with spectral graph convolutions on brain connectivity networks",
+      "journal": "NeuroImage",
+      "volume": "169",
+      "pages": "431--442",
+      "year": "2018",
+      "publisher": "Academic Press"
+    },
+    "persons": {
+      "author": [
+        "Ktena, Sofia Ira",
+        "Parisot, Sarah",
+        "Ferrante, Enzo",
+        "Rajchl, Martin",
+        "Lee, Matthew",
+        "Glocker, Ben",
+        "Rueckert, Daniel"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ktena, S. I., Parisot, S., Ferrante, E., Rajchl, M., Lee, M., Glocker, B., & Rueckert, D. (2018). Metric learning with spectral graph convolutions on brain connectivity networks. NeuroImage, 169, 431–442."
+  },
+  {
+    "key": "ferrante2018graph",
+    "type": "article",
+    "fields": {
+      "title": "Graph-Based Slice-to-Volume Deformable Registration",
+      "journal": "International Journal of Computer Vision",
+      "volume": "126",
+      "number": "1",
+      "pages": "36--58",
+      "year": "2018",
+      "publisher": "Springer"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., & Paragios, N. (2018). Graph-based slice-to-volume deformable registration. International Journal of Computer Vision, 126(1), 36–58."
+  },
+  {
+    "key": "pawlowski2018unsupervised",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Unsupervised Lesion Detection in Brain CT using Bayesian Convolutional Autoencoders",
+      "booktitle": "MIDL: Medical Imaging with Deep Learning Conference",
+      "year": "2018"
+    },
+    "persons": {
+      "author": [
+        "Pawlowski, Nick",
+        "Lee, Matthew CH",
+        "Rajchl, Martin",
+        "McDonagh, Steven",
+        "Ferrante, Enzo",
+        "Kamnitsas, Konstantinos",
+        "Cooke, Sam",
+        "Stevenson, Susan",
+        "Khetani, Aneesh",
+        "Newman, Tom",
+        "others"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Pawlowski, N., Lee, M. C., Rajchl, M., McDonagh, S., Ferrante, E., Kamnitsas, K., … others. (2018). Unsupervised lesion detection in brain ct using bayesian convolutional autoencoders. MIDL: Medical Imaging with Deep Learning Conference."
+  },
+  {
+    "key": "cerrolaza2018deep",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Deep learning with ultrasound physics for fetal skull segmentation",
+      "booktitle": "ISBI: IEEE International Symposium on Biomedical Imaging",
+      "pages": "564--567",
+      "year": "2018",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Cerrolaza, Juan J",
+        "Sinclair, Matthew",
+        "Li, Yuanwei",
+        "Gomez, Alberto",
+        "Ferrante, Enzo",
+        "Matthew, Jaqueline",
+        "Gupta, Chandni",
+        "Knight, Caroline L",
+        "Rueckert, Daniel"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Cerrolaza, J. J., Sinclair, M., Li, Y., Gomez, A., Ferrante, E., Matthew, J., … Rueckert, D. (2018). Deep learning with ultrasound physics for fetal skull segmentation. ISBI: IEEE International Symposium on Biomedical Imaging (pp. 564–567)."
+  },
+  {
+    "key": "parisot2018disease",
+    "type": "article",
+    "fields": {
+      "title": "Disease prediction using graph convolutional networks: Application to Autism Spectrum Disorder and Alzheimer’s disease",
+      "journal": "Medical image analysis",
+      "volume": "48",
+      "pages": "117--130",
+      "year": "2018",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Parisot, Sarah",
+        "Ktena, Sofia Ira",
+        "Ferrante, Enzo",
+        "Lee, Matthew",
+        "Guerrero, Ricardo",
+        "Glocker, Ben",
+        "Rueckert, Daniel"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Parisot, S., Ktena, S. I., Ferrante, E., Lee, M., Guerrero, R., Glocker, B., & Rueckert, D. (2018). Disease prediction using graph convolutional networks: application to autism spectrum disorder and alzheimer’s disease. Medical image analysis, 48, 117–130."
+  },
+  {
+    "key": "debus2018left",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Left ventricle quantification through spatio-temporal CNNs",
+      "booktitle": "MICCAI STACOM Workshop: Statistical Atlases and Computational Modelling of the Heart",
+      "year": "2018"
+    },
+    "persons": {
+      "author": [
+        "Debus, Alejandro",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Debus, A., & Ferrante, E. (2018). Left ventricle quantification through spatio-temporal cnns. MICCAI STACOM Workshop: Statistical Atlases and Computational Modelling of the Heart."
+  },
+  {
+    "key": "stoyanov2018graphs",
+    "type": "misc",
+    "fields": {
+      "title": "Graphs in Biomedical Image Analysis and Integrating Medical Imaging and Non-Imaging Modalities",
+      "year": "2018",
+      "publisher": "Springer"
+    },
+    "persons": {
+      "author": [
+        "Stoyanov, Danail",
+        "Taylor, Zeike",
+        "Ferrante, Enzo",
+        "Dalca, Adrian V"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Stoyanov, D., Taylor, Z., Ferrante, E., & Dalca, A. V. (2018). Graphs in Biomedical Image Analysis and Integrating Medical Imaging and Non-Imaging Modalities."
+  },
+  {
+    "key": "ferrante2018adaptability",
+    "type": "inproceedings",
+    "fields": {
+      "title": "On the Adaptability of Unsupervised CNN-Based Deformable Image Registration to Unseen Image Domains",
+      "booktitle": "MICCAI MLMI Workshop: Machine Learning in Medical Imaging",
+      "year": "2018",
+      "organization": "Springer, Cham"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Oktay, Ozan",
+        "Glocker, Ben",
+        "Milone, Diego H"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Oktay, O., Glocker, B., & Milone, D. H. (2018). On the adaptability of unsupervised cnn-based deformable image registration to unseen image domains. MICCAI MLMI Workshop: Machine Learning in Medical Imaging."
+  },
+  {
+    "key": "mansilla2018segmentacion",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Segmentaci{\\'o}n multi-atlas de im{\\'a}genes m{\\'e}dicas con selecci{\\'o}n de atlas inteligente y control de calidad autom{\\'a}tico",
+      "booktitle": "XXIV Congreso Argentino de Ciencias de la Computaci{\\'o}n (Tandil, 2018).",
+      "year": "2018"
+    },
+    "persons": {
+      "author": [
+        "Mansilla, Lucas",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mansilla, L., & Ferrante, E. (2018). Segmentación multi-atlas de imágenes médicas con selección de atlas inteligente y control de calidad automático. XXIV Congreso Argentino de Ciencias de la Computación (Tandil, 2018)."
+  },
+  {
+    "key": "bakas2018identifying",
+    "type": "article",
+    "fields": {
+      "title": "Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the BRATS challenge",
+      "journal": "arXiv preprint arXiv:1811.02629",
+      "year": "2018"
+    },
+    "persons": {
+      "author": [
+        "Bakas, Spyridon",
+        "Reyes, Mauricio",
+        "Jakab, Andras",
+        "Bauer, Stefan",
+        "Rempfler, Markus",
+        "Crimi, Alessandro",
+        "Shinohara, Russell Takeshi",
+        "Berger, Christoph",
+        "Ha, Sung Min",
+        "Rozycki, Martin",
+        "others"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Bakas, S., Reyes, M., Jakab, A., Bauer, S., Rempfler, M., Crimi, A., … others. (2018). Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the brats challenge. arXiv preprint arXiv:1811.02629."
+  },
+  {
+    "key": "ferrante2018grail",
+    "type": "article",
+    "fields": {
+      "title": "Grail 2018 preface",
+      "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "volume": "11044",
+      "pages": "VII--VIII",
+      "year": "2018"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Parisot, Sarah",
+        "Sotiras, Aristeidis",
+        "Papiez, Bartlomiej"
+      ]
+    },
+    "year": 2018,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Parisot, S., Sotiras, A., & Papiez, B. (2018). Grail 2018 preface. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11044, VII–VIII."
+  },
+  {
+    "key": "orlando2017arabidopsis",
+    "type": "article",
+    "fields": {
+      "title": "Arabidopsis roots segmentation based on morphological operations and CRFs",
+      "journal": "arXiv preprint arXiv:1704.07793",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Orlando, Jos{\\'e} Ignacio",
+        "Manterola, Hugo Luis",
+        "Ferrante, Enzo",
+        "Ariel, Federico"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Orlando, J. I., Manterola, H. L., Ferrante, E., & Ariel, F. (2017). Arabidopsis roots segmentation based on morphological operations and crfs. arXiv preprint arXiv:1704.07793."
+  },
+  {
+    "key": "ferrante2017slice",
+    "type": "article",
+    "fields": {
+      "title": "Slice-to-volume medical image registration: a survey",
+      "journal": "Medical Image Analysis",
+      "volume": "39",
+      "pages": "101--123",
+      "year": "2017",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., & Paragios, N. (2017). Slice-to-volume medical image registration: a survey. Medical Image Analysis, 39, 101–123."
+  },
+  {
+    "key": "ktena2017distance",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks",
+      "booktitle": "MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Ktena, Sofia Ira",
+        "Parisot, Sarah",
+        "Ferrante, Enzo",
+        "Rajchl, Martin",
+        "Lee, Matthew",
+        "Glocker, Ben",
+        "Rueckert, Daniel"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ktena, S. I., Parisot, S., Ferrante, E., Rajchl, M., Lee, M., Glocker, B., & Rueckert, D. (2017). Distance metric learning using graph convolutional networks: application to functional brain networks. MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention."
+  },
+  {
+    "key": "parisot2017spectral",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Spectral Graph Convolutions on Population Graphs for Disease Prediction",
+      "booktitle": "MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Parisot, Sarah",
+        "Ktena, Sofia Ira",
+        "Ferrante, Enzo",
+        "Lee, Matthew",
+        "Moreno, Ricardo Guerrerro",
+        "Glocker, Ben",
+        "Rueckert, Daniel"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Parisot, S., Ktena, S. I., Ferrante, E., Lee, M., Moreno, R. G., Glocker, B., & Rueckert, D. (2017). Spectral graph convolutions on population graphs for disease prediction. MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention."
+  },
+  {
+    "key": "oktay2017anatomically",
+    "type": "article",
+    "fields": {
+      "title": "Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation",
+      "journal": "IEEE Trans Med Imaging",
+      "year": "2017",
+      "publisher": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Oktay, Ozan",
+        "Ferrante, Enzo",
+        "Kamnitsas, Konstantinos",
+        "Heinrich, Mattias",
+        "Bai, Wenjia",
+        "Caballero, Jose",
+        "Guerrero, Ricardo",
+        "Cook, Stuart",
+        "de Marvao, Antonio",
+        "O'Regan, Declan",
+        "others"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Oktay, O., Ferrante, E., Kamnitsas, K., Heinrich, M., Bai, W., Caballero, J., … others. (2017). Anatomically constrained neural networks (acnn): application to cardiac image enhancement and segmentation. IEEE Trans Med Imaging."
+  },
+  {
+    "key": "ferrante2017deformable",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Deformable Registration through Learning of Context-Specific Metric Aggregation",
+      "booktitle": "International Workshop on Machine Learning in Medical Imaging",
+      "pages": "256--265",
+      "year": "2017",
+      "organization": "Springer, Cham"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Dokania, Puneet K",
+        "Marini, Rafael",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Dokania, P. K., Marini, R., & Paragios, N. (2017). Deformable registration through learning of context-specific metric aggregation. International Workshop on Machine Learning in Medical Imaging (pp. 256–265)."
+  },
+  {
+    "key": "cardoso2017graphs_1",
+    "type": "misc",
+    "fields": {
+      "title": "Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics: First International Workshop, GRAIL 2017, 6th International Workshop, MFCA 2017, and Third International Workshop, MICGen 2017, Held in Conjunction with MICCAI 2017, Qu{\\'e}bec City, QC, Canada, September 10--14, 2017, Proceedings",
+      "year": "2017",
+      "publisher": "Springer"
+    },
+    "persons": {
+      "author": [
+        "Cardoso, M Jorge",
+        "Arbel, Tal",
+        "Ferrante, Enzo",
+        "Pennec, Xavier",
+        "Dalca, Adrian V",
+        "Parisot, Sarah",
+        "Joshi, Sarang",
+        "Batmanghelich, Nematollah K",
+        "Sotiras, Aristeidis",
+        "Nielsen, Mads",
+        "others"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Cardoso, M. J., Arbel, T., Ferrante, E., Pennec, X., Dalca, A. V., Parisot, S., … others (2017). Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics: First International Workshop, GRAIL 2017, 6th International Workshop, MFCA 2017, and Third International Workshop, MICGen 2017, Held in Conjunction with MICCAI 2017, Québec City, QC, Canada, September 10–14, 2017, Proceedings."
+  },
+  {
+    "key": "kamnitsas2017ensembles",
+    "type": "incollection",
+    "fields": {
+      "title": "Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation",
+      "booktitle": "BrainLes 2017: Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries",
+      "pages": "450--462",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Kamnitsas, Konstantinos",
+        "Bai, Wenjia",
+        "Ferrante, Enzo",
+        "McDonagh, Steven",
+        "Sinclair, Matthew",
+        "Pawlowski, Nick",
+        "Rajchl, Martin",
+        "Lee, Matthew",
+        "Kainz, Bernhard",
+        "Rueckert, Daniel",
+        "others"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Kamnitsas, K., Bai, W., Ferrante, E., McDonagh, S., Sinclair, M., Pawlowski, N., … others. (2017). Ensembles of multiple models and architectures for robust brain tumour segmentation. BrainLes 2017: Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (pp. 450–462)."
+  },
+  {
+    "key": "ferrante2017preface",
+    "type": "article",
+    "fields": {
+      "title": "Preface grail 2017",
+      "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "volume": "10551",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Parisot, Sarah",
+        "Sotiras, Aristeidis"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Parisot, S., & Sotiras, A. (2017). Preface grail 2017. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 10551."
+  },
+  {
+    "key": "cardoso2017graphs_2",
+    "type": "misc",
+    "fields": {
+      "title": "Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Cardoso, Jorge",
+        "Arbel, Tal",
+        "Ferrante, Enzo",
+        "Pennec, Xavier",
+        "Parisot, Sarah",
+        "Joshi, Sarang",
+        "Batmanghelich, Nematollah",
+        "Sotiras, Aristeidis",
+        "Nielsen, Mads",
+        "Sabuncu, Mert",
+        "others"
+      ]
+    },
+    "year": 2017,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Cardoso, J., Arbel, T., Ferrante, E., Pennec, X., Parisot, S., Joshi, S., … others (2017). Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics."
+  },
+  {
+    "key": "paragios2016method",
+    "type": "misc",
+    "fields": {
+      "title": "Method and device for elastic registration between a two-dimensional digital image and a slice of a three-dimensional volume with overlapping content",
+      "year": "2016",
+      "month": "August~16",
+      "note": "US Patent 9,418,468"
+    },
+    "persons": {
+      "author": [
+        "Paragios, Nikos",
+        "Ferrante, Enzo",
+        "SILVA, Rafael MARINI"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Paragios, N., Ferrante, E., & SILVA, R. M. (2016 , August 16). Method and device for elastic registration between a two-dimensional digital image and a slice of a three-dimensional volume with overlapping content. US Patent 9,418,468."
+  },
+  {
+    "key": "shakeri2016sub",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Sub-cortical brain structure segmentation using F-CNN's",
+      "booktitle": "ISBI 2016",
+      "year": "2016"
+    },
+    "persons": {
+      "author": [
+        "Shakeri, Mahsa",
+        "Tsogkas, Stavros",
+        "Ferrante, Enzo",
+        "Lippe, Sarah",
+        "Kadoury, Samuel",
+        "Paragios, Nikos",
+        "Kokkinos, Iasonas"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Shakeri, M., Tsogkas, S., Ferrante, E., Lippe, S., Kadoury, S., Paragios, N., & Kokkinos, I. (2016). Sub-cortical brain structure segmentation using f-cnn's. ISBI 2016."
+  },
+  {
+    "key": "paragios2016hyper",
+    "type": "article",
+    "fields": {
+      "title": "(Hyper)-graphical models in biomedical image analysis",
+      "journal": "Medical Image Analysis",
+      "volume": "33",
+      "pages": "102--106",
+      "year": "2016",
+      "publisher": "Elsevier"
+    },
+    "persons": {
+      "author": [
+        "Paragios, Nikos",
+        "Ferrante, Enzo",
+        "Glocker, Ben",
+        "Komodakis, Nikos",
+        "Parisot, Sarah",
+        "Zacharaki, Evangelia I"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Paragios, N., Ferrante, E., Glocker, B., Komodakis, N., Parisot, S., & Zacharaki, E. I. (2016). (hyper)-graphical models in biomedical image analysis. Medical Image Analysis, 33, 102–106."
+  },
+  {
+    "key": "shakeri2016prior",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Prior-based Coregistration and Cosegmentation",
+      "booktitle": "MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "pages": "529--537",
+      "year": "2016",
+      "organization": "Springer International Publishing"
+    },
+    "persons": {
+      "author": [
+        "Shakeri, Mahsa",
+        "Ferrante, Enzo",
+        "Tsogkas, Stavros",
+        "Lippe, Sarah",
+        "Kadoury, Samuel",
+        "Kokkinos, Iasonas",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Shakeri, M., Ferrante, E., Tsogkas, S., Lippe, S., Kadoury, S., Kokkinos, I., & Paragios, N. (2016). Prior-based coregistration and cosegmentation. MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 529–537)."
+  },
+  {
+    "key": "ferrante2016recalage",
+    "type": "phdthesis",
+    "fields": {
+      "title": "Recalage d{\\'e}formable {\\`a} base de graphes: mise en correspondance coupe-vers-volume et m{\\'e}thodes contextuelles",
+      "year": "2016",
+      "school": "Universit{\\'e} Paris-Saclay (ComUE)"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E. (2016). Recalage déformable à base de graphes: mise en correspondance coupe-vers-volume et méthodes contextuelles (Doctoral dissertation). Université Paris-Saclay (ComUE)."
+  },
+  {
+    "key": "ferrante2016graph_1",
+    "type": "phdthesis",
+    "fields": {
+      "title": "Graph-based deformable registration: slice-to-volume mapping and context specific methods",
+      "year": "2016",
+      "school": "Universit{\\'e} Paris-Saclay"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E. (2016). Graph-based deformable registration: slice-to-volume mapping and context specific methods (Doctoral dissertation). Université Paris-Saclay."
+  },
+  {
+    "key": "porchetto2016rigid",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Rigid Slice-To-Volume Medical Image Registration through Markov Random Fields",
+      "booktitle": "Medical Computer Vision and Bayesian and Graphical Models for Biomedical Imaging. MCV 2016, BAMBI 2016",
+      "pages": "172--185",
+      "year": "2016"
+    },
+    "persons": {
+      "author": [
+        "Porchetto, Roque",
+        "Stramana, Franco",
+        "Paragios, Nikos",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Porchetto, R., Stramana, F., Paragios, N., & Ferrante, E. (2016). Rigid slice-to-volume medical image registration through markov random fields. Medical Computer Vision and Bayesian and Graphical Models for Biomedical Imaging. MCV 2016, BAMBI 2016 (pp. 172–185)."
+  },
+  {
+    "key": "kamnitsas2016deepmedic",
+    "type": "inproceedings",
+    "fields": {
+      "title": "DeepMedic for Brain Tumor Segmentation",
+      "booktitle": "International Workshop on Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries",
+      "pages": "138--149",
+      "year": "2016",
+      "organization": "Springer, Cham"
+    },
+    "persons": {
+      "author": [
+        "Kamnitsas, Konstantinos",
+        "Ferrante, Enzo",
+        "Parisot, Sarah",
+        "Ledig, Christian",
+        "Nori, Aditya V",
+        "Criminisi, Antonio",
+        "Rueckert, Daniel",
+        "Glocker, Ben"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Kamnitsas, K., Ferrante, E., Parisot, S., Ledig, C., Nori, A. V., Criminisi, A., … Glocker, B. (2016). Deepmedic for brain tumor segmentation. International Workshop on Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (pp. 138–149)."
+  },
+  {
+    "key": "ferrante2016graph_2",
+    "type": "article",
+    "fields": {
+      "title": "Graph-based deformable registration: slice-to-volume mapping and context specific methods.(Recalage d{\\'e}formable {\\`a} base de graphes: mise en correspondance coupe-vers-volume et m{\\'e}thodes contextuelles)",
+      "year": "2016"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2016,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "ferrante2015slice",
+    "type": "article",
+    "fields": {
+      "title": "Slice-to-Volume Deformable Registration: Efficient one shot consensus between plane selection and in-plane deformation",
+      "journal": "International Journal of Computer Assisted Radiology and Surgery (IJCARS)",
+      "pages": "16",
+      "year": "2015"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Fecamp, Vivien",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2015,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Fecamp, V., & Paragios, N. (2015). Slice-to-volume deformable registration: efficient one shot consensus between plane selection and in-plane deformation. International Journal of Computer Assisted Radiology and Surgery (IJCARS), p. 16."
+  },
+  {
+    "key": "ferrante2015implicit",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Implicit planar and in-plane deformable mapping in medical images through high order graphs",
+      "booktitle": "ISBI: IEEE International Symposium on Biomedical Imaging",
+      "pages": "721--724",
+      "year": "2015",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Fecamp, Vivien",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2015,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., Fecamp, V., & Paragios, N. (2015). Implicit planar and in-plane deformable mapping in medical images through high order graphs. ISBI: IEEE International Symposium on Biomedical Imaging (pp. 721–724)."
+  },
+  {
+    "key": "mauco2014educational",
+    "type": "article",
+    "fields": {
+      "title": "Educational Software for First Order Logic Semantics in Introductory Logic Courses",
+      "journal": "Information Systems Education Journal",
+      "volume": "12",
+      "number": "6",
+      "pages": "15",
+      "year": "2014"
+    },
+    "persons": {
+      "author": [
+        "Mauco, Virginia",
+        "Ferrante, Enzo",
+        "Felice, Laura"
+      ]
+    },
+    "year": 2014,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mauco, V., Ferrante, E., & Felice, L. (2014). Educational software for first order logic semantics in introductory logic courses. Information Systems Education Journal, 12(6), 15."
+  },
+  {
+    "key": "ferrante2013non",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Non-rigid 2d-3d medical image registration using markov random fields",
+      "booktitle": "MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "pages": "163--170",
+      "year": "2013",
+      "organization": "Springer Berlin Heidelberg"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "Paragios, Nikos"
+      ]
+    },
+    "year": 2013,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., & Paragios, N. (2013). Non-rigid 2d-3d medical image registration using markov random fields. MICCAI: International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 163–170)."
+  },
+  {
+    "key": "manterola2013extraccion",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Extracci{\\'o}n de objetos en im{\\'a}genes m{\\'e}dicas tridimensionales basada en caracter{\\'\\i}sticas texturales",
+      "booktitle": "Proceedings del Congreso Argentino de Inform{\\'a}tica y Salud, 42 JAIIO",
+      "year": "2013"
+    },
+    "persons": {
+      "author": [
+        "Manterola, HL",
+        "Orlando, JI",
+        "Ferrante, E",
+        "del Fresno, M"
+      ]
+    },
+    "year": 2013,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Manterola, H., Orlando, J., Ferrante, E., & del Fresno, M. (2013). Extracción de objetos en imágenes médicas tridimensionales basada en características texturales. Proceedings del Congreso Argentino de Informática y Salud, 42 JAIIO."
+  },
+  {
+    "key": "orlando2012enfoque",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Un enfoque h{\\'\\i}brido para la segmentaci{\\'o}n de tumores en MRI cerebrales",
+      "booktitle": "3{\\textordmasculine} Congreso Argentino de Inform{\\'a}tica y Salud, CAIS 2012",
+      "year": "2012"
+    },
+    "persons": {
+      "author": [
+        "Orlando, JI",
+        "Ferrante, E",
+        "Manterola, HL",
+        "del Fresno, M"
+      ]
+    },
+    "year": 2012,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Orlando, J., Ferrante, E., Manterola, H., & del Fresno, M. (2012). Un enfoque híbrido para la segmentación de tumores en mri cerebrales. 3\\textordmasculine  Congreso Argentino de Informática y Salud, CAIS 2012."
+  },
+  {
+    "key": "mauco2012folst",
+    "type": "inproceedings",
+    "fields": {
+      "title": "FOLST: A Didactic Tool to Support First Order Logic Semantics Learning",
+      "booktitle": "2nd International Conference on Future Computers in Education ICFCE2012",
+      "pages": "302--307",
+      "year": "2012",
+      "organization": "Lectute Notes in Information Technology - IERI"
+    },
+    "persons": {
+      "author": [
+        "Mauco, Mar{\\'\\i}a Virginia",
+        "Maggiori, Emmanuel",
+        "Gervasoni, Luciano",
+        "Ferrante, Enzo",
+        "Felice, Laura"
+      ]
+    },
+    "year": 2012,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mauco, M. V., Maggiori, E., Gervasoni, L., Ferrante, E., & Felice, L. (2012). Folst: a didactic tool to support first order logic semantics learning. 2nd International Conference on Future Computers in Education ICFCE2012 (pp. 302–307)."
+  },
+  {
+    "key": "gervasoni2012folst",
+    "type": "inproceedings",
+    "fields": {
+      "title": "FOLST: Una Herramienta Did{\\'a}ctica para la L{\\'o}gica de Predicados de Primer Orden",
+      "booktitle": "15{\\textordmasculine} Concurso de Trabajos Estudiantiles, EST 2012",
+      "year": "2012"
+    },
+    "persons": {
+      "author": [
+        "Gervasoni, Luciano",
+        "Maggiori, Emmanuel",
+        "Mauco, Virginia",
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2012,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Gervasoni, L., Maggiori, E., Mauco, V., & Ferrante, E. (2012). Folst: una herramienta didáctica para la lógica de predicados de primer orden. 15\\textordmasculine  Concurso de Trabajos Estudiantiles, EST 2012."
+  },
+  {
+    "key": "ferrante2012segmentacion",
+    "type": "article",
+    "fields": {
+      "title": "Segmentaci{\\'o}n y reconstrucci{\\'o}n eficiente de mallas para seguimiento de tumores utilizando GPU",
+      "year": "2012",
+      "publisher": "Universidad Nacional del Centro de la Provincia de Buenos Aires, Facultad de~…"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo"
+      ]
+    },
+    "year": 2012,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "ferrante2011deteccion",
+    "type": "article",
+    "fields": {
+      "title": "Detecci{\\'o}n y Reconstrucci{\\'o}n de Geometr{\\'\\i}as a Partir de Im{\\'a}genes de Resonancia Magn{\\'e}tica para Seguimiento de Tumores",
+      "journal": "Mec{\\'a}nica Computacional",
+      "volume": "30",
+      "number": "23",
+      "year": "2011"
+    },
+    "persons": {
+      "author": [
+        "Ferrante, Enzo",
+        "del Fresno, Mariana",
+        "DAmato, Juan",
+        "V{\\'e}nere, Marcelo"
+      ]
+    },
+    "year": 2011,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Ferrante, E., del Fresno, M., DAmato, J., & Vénere, M. (2011). Detección y reconstrucción de geometrías a partir de imágenes de resonancia magnética para seguimiento de tumores. Mecánica Computacional, 30(23)."
+  },
+  {
+    "key": "mauco2009clausula",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Clausula: A Didactic Tool to Teach First Order Logic",
+      "booktitle": "Proceedings de ISECON 2009, Information Systems Education Conference",
+      "year": "2009"
+    },
+    "persons": {
+      "author": [
+        "Mauco, Mar{\\'\\i}a Virginia",
+        "Ferrante, Enzo",
+        "others"
+      ]
+    },
+    "year": 2009,
+    "name": "Enzo_Ferrante",
+    "method": "scholar",
+    "citation": "Mauco, M. V., Ferrante, E., & others. (2009). Clausula: a didactic tool to teach first order logic. Proceedings de ISECON 2009, Information Systems Education Conference."
+  }
+]

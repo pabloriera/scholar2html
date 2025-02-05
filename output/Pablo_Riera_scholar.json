@@ -1,0 +1,982 @@
+[
+  {
+    "key": "riera2025como",
+    "type": "misc",
+    "fields": {
+      "title": "C{\\'o}mo leer referencias de google scholar autom{\\'a}ticamente",
+      "url": "https://github.com/pabloriera/scholar2html",
+      "year": "2025"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo Ernesto"
+      ]
+    },
+    "year": 2025,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P. E. (2025). Cómo leer referencias de google scholar automáticamente."
+  },
+  {
+    "key": "garcia2024toolkit",
+    "type": "article",
+    "fields": {
+      "title": "Toolkit to Examine Lifelike Language (TELL): An app to capture speech and language markers of neurodegeneration",
+      "journal": "Behavior research methods",
+      "volume": "56",
+      "number": "4",
+      "pages": "2886--2900",
+      "year": "2024",
+      "publisher": "Springer US New York"
+    },
+    "persons": {
+      "author": [
+        "Garc{\\'\\i}a, Adolfo M",
+        "Johann, Fernando",
+        "Echegoyen, Ra{\\'u}l",
+        "Calcaterra, Cecilia",
+        "Riera, Pablo",
+        "Belloli, Laouen",
+        "Carrillo, Facundo"
+      ]
+    },
+    "year": 2024,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "García, A. M., Johann, F., Echegoyen, R., Calcaterra, C., Riera, P., Belloli, L., & Carrillo, F. (2024). Toolkit to examine lifelike language (tell): an app to capture speech and language markers of neurodegeneration. Behavior research methods, 56(4), 2886–2900."
+  },
+  {
+    "key": "ferrer2024confidence",
+    "type": "article",
+    "fields": {
+      "title": "Confidence intervals for evaluation in machine learning",
+      "journal": "Computer software], Accessed",
+      "volume": "1",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Ferrer, L",
+        "Riera, P"
+      ]
+    },
+    "year": 2024,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Ferrer, L., & Riera, P. (2024). Confidence intervals for evaluation in machine learning. Computer software], Accessed, 1."
+  },
+  {
+    "key": "vidal2024automatic",
+    "type": "article",
+    "fields": {
+      "title": "Automatic Pronunciation Assessment Systems for English Students from Argentina",
+      "journal": "Communications of the ACM",
+      "volume": "67",
+      "number": "8",
+      "pages": "63--67",
+      "year": "2024",
+      "publisher": "ACM New York, NY, USA"
+    },
+    "persons": {
+      "author": [
+        "Vidal, Jazm{\\'\\i}n",
+        "Bonomi, Cyntia",
+        "Riera, Pablo",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2024,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Vidal, J., Bonomi, C., Riera, P., & Ferrer, L. (2024). Automatic pronunciation assessment systems for english students from argentina. Communications of the ACM, 67(8), 63–67."
+  },
+  {
+    "key": "gauder2024unreliability",
+    "type": "article",
+    "fields": {
+      "title": "The Unreliability of Acoustic Systems in Alzheimer's Speech Datasets with Heterogeneous Recording Conditions",
+      "journal": "arXiv preprint arXiv:2409.12170",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Gauder, Lara",
+        "Riera, Pablo",
+        "Slachevsky, Andrea",
+        "Forno, Gonzalo",
+        "Garcia, Adolfo M",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2024,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Gauder, L., Riera, P., Slachevsky, A., Forno, G., Garcia, A. M., & Ferrer, L. (2024). The unreliability of acoustic systems in alzheimer's speech datasets with heterogeneous recording conditions. arXiv preprint arXiv:2409.12170."
+  },
+  {
+    "key": "gauder2023towards",
+    "type": "article",
+    "fields": {
+      "title": "Towards detecting the level of trust in the skills of a virtual assistant from the user’s speech",
+      "journal": "Computer Speech \\& Language",
+      "volume": "80",
+      "pages": "101487",
+      "year": "2023",
+      "publisher": "Academic Press"
+    },
+    "persons": {
+      "author": [
+        "Gauder, Lara",
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Brussino, Silvina",
+        "Vidal, Jazm{\\'\\i}n",
+        "Gravano, Agust{\\'\\i}n",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2023). Towards detecting the level of trust in the skills of a virtual assistant from the user’s speech. Computer Speech & Language, 80, 101487."
+  },
+  {
+    "key": "riera2023phone",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Phone and speaker spatial organization in self-supervised speech representations",
+      "booktitle": "2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)",
+      "pages": "1--5",
+      "year": "2023",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo",
+        "Cerdeiro, Manuela",
+        "Pepino, Leonardo",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P., Cerdeiro, M., Pepino, L., & Ferrer, L. (2023). Phone and speaker spatial organization in self-supervised speech representations. 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW) (pp. 1–5)."
+  },
+  {
+    "key": "vidal2023mispronunciation",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Mispronunciation detection using self-supervised speech representations",
+      "booktitle": "Proc. 9th Workshop on Speech and Language Technology in Education (SLaTE)",
+      "pages": "71--75",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Vidal, Jazmin",
+        "Riera, Pablo",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Vidal, J., Riera, P., & Ferrer, L. (2023). Mispronunciation detection using self-supervised speech representations. Proc. 9th Workshop on Speech and Language Technology in Education (SLaTE) (pp. 71–75)."
+  },
+  {
+    "key": "barchi2023apparent",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Apparent personality prediction from speech using expert features and wav2vec 2.0",
+      "booktitle": "Proc. SMM 2023",
+      "pages": "21--25",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Barchi, R",
+        "Pepino, L",
+        "Gauder, L",
+        "Estienne, L",
+        "Meza, M",
+        "Riera, P",
+        "Ferrer, L"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Barchi, R., Pepino, L., Gauder, L., Estienne, L., Meza, M., Riera, P., & Ferrer, L. (2023). Apparent personality prediction from speech using expert features and wav2vec 2.0. Proc. SMM 2023 (pp. 21–25)."
+  },
+  {
+    "key": "meza2023teamwork",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Teamwork Quality Prediction Using Speech-Based Features",
+      "year": "2023",
+      "organization": "SMM23, Workshop on Speech, Music and Mind 2023"
+    },
+    "persons": {
+      "author": [
+        "Meza, Martin",
+        "Gauder, Lara",
+        "Estienne, Lautaro",
+        "Barchi, Ricardo",
+        "Gravano, Agust{\\'\\i}n",
+        "Riera, Pablo",
+        "Ferrer, Luciana",
+        "others"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "pepino2023encodecmae",
+    "type": "article",
+    "fields": {
+      "title": "Encodecmae: Leveraging neural codecs for universal audio representation learning",
+      "journal": "arXiv preprint arXiv:2309.07391",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pepino, L., Riera, P., & Ferrer, L. (2023). Encodecmae: leveraging neural codecs for universal audio representation learning. arXiv preprint arXiv:2309.07391."
+  },
+  {
+    "key": "ramos2023embedded",
+    "type": "inproceedings",
+    "fields": {
+      "title": "An embedded wavetable synthesizer for the electronic bandoneon with parameter mappings based on acoustical measurements",
+      "booktitle": "Proceedings of the International Conference on New Interfaces for Musical Expression",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Ramos, Juan M",
+        "Calcagno, Esteban R",
+        "Riera, Pablo E"
+      ]
+    },
+    "year": 2023,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Ramos, J. M., Calcagno, E. R., & Riera, P. E. (2023). An embedded wavetable synthesizer for the electronic bandoneon with parameter mappings based on acoustical measurements. Proceedings of the International Conference on New Interfaces for Musical Expression."
+  },
+  {
+    "key": "miguel2022simple",
+    "type": "article",
+    "fields": {
+      "title": "A simple and cheap setup for timing tapping responses synchronized to auditory stimuli",
+      "journal": "Behavior Research Methods",
+      "volume": "54",
+      "number": "2",
+      "pages": "712--728",
+      "year": "2022",
+      "publisher": "Springer US"
+    },
+    "persons": {
+      "author": [
+        "Miguel, Martin A",
+        "Riera, Pablo",
+        "Slezak, Diego Fernandez"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Miguel, M. A., Riera, P., & Slezak, D. F. (2022). A simple and cheap setup for timing tapping responses synchronized to auditory stimuli. Behavior Research Methods, 54(2), 712–728."
+  },
+  {
+    "key": "pepino2022study",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Study of positional encoding approaches for audio spectrogram transformers",
+      "booktitle": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "pages": "3713--3717",
+      "year": "2022",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pepino, L., Riera, P., & Ferrer, L. (2022). Study of positional encoding approaches for audio spectrogram transformers. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3713–3717)."
+  },
+  {
+    "key": "pareyon2022music",
+    "type": "article",
+    "fields": {
+      "title": "Music and Mathematics in Latin America. Major developments in the last 25 years",
+      "journal": "Brazilian Journal of Music and Mathematics",
+      "volume": "6",
+      "number": "1",
+      "pages": "12--47",
+      "year": "2022"
+    },
+    "persons": {
+      "author": [
+        "Pareyon, Gabriel",
+        "Almada, Carlos",
+        "Mathias, Carlos",
+        "Saraiva, Cecilia",
+        "Moreira, Daniel",
+        "Carvalho, Hugo",
+        "Pitombeira, Liduino",
+        "Gentil-Nunes, Pauxy",
+        "Mesz, Bruno",
+        "Amster, Pablo",
+        "others"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pareyon, G., Almada, C., Mathias, C., Saraiva, C., Moreira, D., Carvalho, H., … others. (2022). Music and mathematics in latin america. major developments in the last 25 years. Brazilian Journal of Music and Mathematics, 6(1), 12–47."
+  },
+  {
+    "key": "samaruga2022port",
+    "type": "inproceedings",
+    "fields": {
+      "title": "A port of the supercollider’s class library to python",
+      "booktitle": "Proceedings of the 17th International Audio Mostly Conference",
+      "pages": "137--142",
+      "year": "2022"
+    },
+    "persons": {
+      "author": [
+        "Samaruga, Lucas",
+        "Riera, Pablo"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Samaruga, L., & Riera, P. (2022). A port of the supercollider’s class library to python. Proceedings of the 17th International Audio Mostly Conference (pp. 137–142)."
+  },
+  {
+    "key": "pepino2022sistema",
+    "type": "article",
+    "fields": {
+      "title": "Sistema de conversi{\\'o}n de texto a habla en espa{\\~n}ol con control de acento, prosodia y clonaci{\\'o}n de voz",
+      "journal": "Memorias de las JAIIO",
+      "volume": "8",
+      "number": "2",
+      "pages": "110--111",
+      "year": "2022"
+    },
+    "persons": {
+      "author": [
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Barchi, Germ{\\'a}n",
+        "Giaccio, Joaqu{\\'\\i}n"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pepino, L., Riera, P., Barchi, G., & Giaccio, J. (2022). Sistema de conversión de texto a habla en español con control de acento, prosodia y clonación de voz. Memorias de las JAIIO, 8(2), 110–111."
+  },
+  {
+    "key": "ramos2022bandoneon",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Bandoneon 2.0: an interdisciplinary project for research and development of electronic bandoneons in Argentina",
+      "booktitle": "NIME 2022",
+      "year": "2022",
+      "organization": "PubPub"
+    },
+    "persons": {
+      "author": [
+        "Ramos, Juan",
+        "Calcagno, Esteban Ram{\\'o}n",
+        "oscar Vergara, Ramiro",
+        "Riera, Pablo",
+        "Rizza, Joaqu{\\'\\i}n"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Ramos, J., Calcagno, E. R., oscar Vergara, R., Riera, P., & Rizza, J. (2022). Bandoneon 2.0: an interdisciplinary project for research and development of electronic bandoneons in argentina. NIME 2022."
+  },
+  {
+    "key": "ramos2022electronic",
+    "type": "article",
+    "fields": {
+      "title": "An electronic bandoneon with a dynamic sound synthesis system based on measured acoustic parameters",
+      "journal": "Computer Music Journal",
+      "volume": "46",
+      "number": "1-2",
+      "pages": "40--57",
+      "year": "2022",
+      "publisher": "MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…"
+    },
+    "persons": {
+      "author": [
+        "Ramos, Juan",
+        "Calcagno, Esteban",
+        "Vergara, Ramiro",
+        "Rizza, Joaqu{\\'\\i}n",
+        "Riera, Pablo"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Ramos, J., Calcagno, E., Vergara, R., Rizza, J., & Riera, P. (2022). An electronic bandoneon with a dynamic sound synthesis system based on measured acoustic parameters. Computer Music Journal, 46(1-2), 40–57."
+  },
+  {
+    "key": "garber2022sistema",
+    "type": "article",
+    "fields": {
+      "title": "Sistema de identificaci{\\'o}n de idioma (LID) para grabaciones de entornos naturales biling{\\\"u}es en comunidades qom",
+      "year": "2022",
+      "publisher": "Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales"
+    },
+    "persons": {
+      "author": [
+        "Garber, Leandro Mart{\\'\\i}n",
+        "Riera, Pablo Ernesto"
+      ]
+    },
+    "year": 2022,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "rolla2021self",
+    "type": "article",
+    "fields": {
+      "title": "Self-similarity of classical music networks",
+      "journal": "Fractals",
+      "volume": "29",
+      "number": "02",
+      "pages": "2150041",
+      "year": "2021",
+      "publisher": "World Scientific Publishing Company"
+    },
+    "persons": {
+      "author": [
+        "Rolla, Vitor",
+        "Riera, Pablo",
+        "Souza, Pedro",
+        "Zubelli, Jorge",
+        "Velho, Luiz"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Rolla, V., Riera, P., Souza, P., Zubelli, J., & Velho, L. (2021). Self-similarity of classical music networks. Fractals, 29(02), 2150041."
+  },
+  {
+    "key": "gauder2021study",
+    "type": "article",
+    "fields": {
+      "title": "A Study on the manifestation of trust in speech",
+      "journal": "arXiv preprint arXiv:2102.09370",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Gauder, Lara",
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Brussino, Silvina",
+        "Vidal, Jazm{\\'\\i}n",
+        "Gravano, Agust{\\'\\i}n",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2021). A study on the manifestation of trust in speech. arXiv preprint arXiv:2102.09370."
+  },
+  {
+    "key": "gauder2021alzheimer",
+    "type": "article",
+    "fields": {
+      "title": "Alzheimer disease recognition using speech-based embeddings from pre-trained models",
+      "year": "2021",
+      "publisher": "International Speech Communication Association"
+    },
+    "persons": {
+      "author": [
+        "Gauder, Mar{\\'\\i}a Lara",
+        "Pepino, Leonardo Daniel",
+        "Ferrer, Luciana",
+        "Riera, Pablo"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "pepino2021emotion",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings",
+      "booktitle": "Proc. Interspeech 2021",
+      "pages": "3400--3404",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2021,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pepino, L., Riera, P., & Ferrer, L. (2021). Emotion recognition from speech using wav2vec 2.0 embeddings. Proc. Interspeech 2021 (pp. 3400–3404)."
+  },
+  {
+    "key": "pepino2020fusion",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Fusion approaches for emotion recognition from speech using acoustic and text-based features",
+      "booktitle": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "pages": "6484--6488",
+      "year": "2020",
+      "organization": "IEEE"
+    },
+    "persons": {
+      "author": [
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Ferrer, Luciana",
+        "Gravano, Agust{\\'\\i}n"
+      ]
+    },
+    "year": 2020,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pepino, L., Riera, P., Ferrer, L., & Gravano, A. (2020). Fusion approaches for emotion recognition from speech using acoustic and text-based features. ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6484–6488)."
+  },
+  {
+    "key": "pepino2020detecting",
+    "type": "article",
+    "fields": {
+      "title": "Detecting distrust towards the skills of a virtual assistant using speech",
+      "journal": "arXiv preprint arXiv:2007.15711",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Pepino, Leonardo",
+        "Riera, Pablo",
+        "Gauder, Lara",
+        "Gravano, Agust{\\'\\i}n",
+        "Ferrer, Luciana"
+      ]
+    },
+    "year": 2020,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Pepino, L., Riera, P., Gauder, L., Gravano, A., & Ferrer, L. (2020). Detecting distrust towards the skills of a virtual assistant using speech. arXiv preprint arXiv:2007.15711."
+  },
+  {
+    "key": "gauder2020trust",
+    "type": "article",
+    "fields": {
+      "title": "Trust-UBA: A Corpus for the Study of the Manifestation of Trust in Speech",
+      "journal": "arXiv preprint arXiv:2006.05977",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Gauder, Lara",
+        "Riera, Pablo",
+        "Pepino, Leonardo",
+        "Brussino, Silvina",
+        "Vidal, Jazm{\\'\\i}n",
+        "Ferrer, Luciana",
+        "Gravano, Agust{\\'\\i}n"
+      ]
+    },
+    "year": 2020,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Gauder, L., Riera, P., Pepino, L., Brussino, S., Vidal, J., Ferrer, L., & Gravano, A. (2020). Trust-uba: a corpus for the study of the manifestation of trust in speech. arXiv preprint arXiv:2006.05977."
+  },
+  {
+    "key": "wang2019analysing",
+    "type": "article",
+    "fields": {
+      "title": "Analysing the impact of music on the perception of red wine via temporal dominance of sensations",
+      "journal": "Multisensory Research",
+      "volume": "32",
+      "number": "4-5",
+      "pages": "455--472",
+      "year": "2019",
+      "publisher": "Brill"
+    },
+    "persons": {
+      "author": [
+        "Wang, Qian Janice",
+        "Mesz, Bruno",
+        "Riera, Pablo",
+        "Trevisan, Marcos",
+        "Sigman, Mariano",
+        "Guha, Apratim",
+        "Spence, Charles"
+      ]
+    },
+    "year": 2019,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Wang, Q. J., Mesz, B., Riera, P., Trevisan, M., Sigman, M., Guha, A., & Spence, C. (2019). Analysing the impact of music on the perception of red wine via temporal dominance of sensations. Multisensory Research, 32(4-5), 455–472."
+  },
+  {
+    "key": "riera2019no",
+    "type": "inproceedings",
+    "fields": {
+      "title": "No sample left behind: Towards a comprehensive evaluation of speech emotion recognition system",
+      "booktitle": "Proc. Workshop on Speech, Music and Mind 2019",
+      "year": "2019"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo",
+        "Ferrer, Luciana",
+        "Gravano, Agust{\\'\\i}n",
+        "Gauder, Lara"
+      ]
+    },
+    "year": 2019,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P., Ferrer, L., Gravano, A., & Gauder, L. (2019). No sample left behind: towards a comprehensive evaluation of speech emotion recognition system. Proc. Workshop on Speech, Music and Mind 2019."
+  },
+  {
+    "key": "gauder2019protocol",
+    "type": "article",
+    "fields": {
+      "title": "A protocol for collecting speech data with varying degrees of trust",
+      "year": "2019",
+      "publisher": "International Speech Communication Association"
+    },
+    "persons": {
+      "author": [
+        "Gauder, Mar{\\'\\i}a Lara",
+        "Gravano, Agustin",
+        "Ferrer, Luciana",
+        "Riera, Pablo Ernesto",
+        "Brussino, Silvina Alejandra"
+      ]
+    },
+    "year": 2019,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "proscia2018t7p",
+    "type": "inproceedings",
+    "fields": {
+      "title": "T7P: Short Talks 7-Acoustics and Philosphy",
+      "booktitle": "15th International Conference on Music Perception and Cognition 10th triennial conference of the European Society for the Cognitive Sciences of Music",
+      "volume": "13",
+      "pages": "400",
+      "year": "2018"
+    },
+    "persons": {
+      "author": [
+        "Proscia, Martin",
+        "Riera, Pablo E",
+        "Eguia, Manuel C"
+      ]
+    },
+    "year": 2018,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Proscia, M., Riera, P. E., & Eguia, M. C. (2018). T7p: short talks 7-acoustics and philosphy. 15th International Conference on Music Perception and Cognition 10th triennial conference of the European Society for the Cognitive Sciences of Music (p. 400)."
+  },
+  {
+    "key": "proscia2017timbral",
+    "type": "inproceedings",
+    "fields": {
+      "title": "A timbral and a musical performance analysis of saxophone multiphonic morphings",
+      "booktitle": "Congreso ISMA",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Proscia, Martin",
+        "Riera, Pablo E",
+        "Eguia, Manuel C"
+      ]
+    },
+    "year": 2017,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Proscia, M., Riera, P. E., & Eguia, M. C. (2017). A timbral and a musical performance analysis of saxophone multiphonic morphings. Congreso ISMA."
+  },
+  {
+    "key": "riera2017timbre",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Timbre spaces with sparse autoencoders",
+      "booktitle": "Brazilian Symposium on Computer Music, 16. Proceedings... Sao Paulo: SBC",
+      "pages": "93--98",
+      "year": "2017"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo E",
+        "Egu{\\'\\i}a, MC",
+        "Zabalj{\\'a}uregui, Mat{\\i}as"
+      ]
+    },
+    "year": 2017,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P. E., Eguía, M., & Zabaljáuregui, M. (2017). Timbre spaces with sparse autoencoders. Brazilian Symposium on Computer Music, 16. Proceedings... Sao Paulo: SBC (pp. 93–98)."
+  },
+  {
+    "key": "alberti2016multiple",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Multiple-scattering theory for two-dimensional arbitrarily shaped acoustic composites",
+      "booktitle": "Proceedings of Meetings on Acoustics",
+      "volume": "28",
+      "number": "1",
+      "year": "2016",
+      "organization": "AIP Publishing"
+    },
+    "persons": {
+      "author": [
+        "Alberti, Alejo",
+        "Spiousas, Ignacio",
+        "Riera, Pablo",
+        "Egu{\\'\\i}a, Manuel"
+      ]
+    },
+    "year": 2016,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Alberti, A., Spiousas, I., Riera, P., & Eguía, M. (2016). Multiple-scattering theory for two-dimensional arbitrarily shaped acoustic composites. Proceedings of Meetings on Acoustics."
+  },
+  {
+    "key": "riera2016flexible",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Flexible Solver For 1-D Cochlear Partition Simulations",
+      "booktitle": "Proceedings of Meetings on Acoustics",
+      "volume": "28",
+      "number": "1",
+      "year": "2016",
+      "organization": "AIP Publishing"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo E",
+        "Egu{\\'\\i}a, Manuel C"
+      ]
+    },
+    "year": 2016,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P. E., & Eguía, M. C. (2016). Flexible solver for 1-d cochlear partition simulations. Proceedings of Meetings on Acoustics."
+  },
+  {
+    "key": "riera2015estudio",
+    "type": "phdthesis",
+    "fields": {
+      "title": "Estudio de la percepci{\\'o}n t{\\'\\i}mbrica en sonidos con modulaci{\\'o}n mediante experimentos psicof{\\'\\i}sicos y modelado de la periferia auditiva",
+      "year": "2015",
+      "school": "Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo Ernesto"
+      ]
+    },
+    "year": 2015,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P. E. (2015). Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva (Doctoral dissertation). Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales."
+  },
+  {
+    "key": "riera2014comparative",
+    "type": "article",
+    "fields": {
+      "title": "A comparative study of saxophone multiphonics: musical, psychophysical and spectral analysis",
+      "journal": "Journal of New Music Research",
+      "volume": "43",
+      "number": "2",
+      "pages": "202--213",
+      "year": "2014",
+      "publisher": "Routledge"
+    },
+    "persons": {
+      "author": [
+        "Riera, Pablo E",
+        "Proscia, Martin",
+        "Eguia, Manuel C"
+      ]
+    },
+    "year": 2014,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Riera, P. E., Proscia, M., & Eguia, M. C. (2014). A comparative study of saxophone multiphonics: musical, psychophysical and spectral analysis. Journal of New Music Research, 43(2), 202–213."
+  },
+  {
+    "key": "lopez2013vocal",
+    "type": "article",
+    "fields": {
+      "title": "Vocal caricatures reveal signatures of speaker identity",
+      "journal": "Scientific reports",
+      "volume": "3",
+      "number": "1",
+      "pages": "3407",
+      "year": "2013",
+      "publisher": "Nature Publishing Group UK London"
+    },
+    "persons": {
+      "author": [
+        "L{\\'o}pez, Sabrina",
+        "Riera, Pablo",
+        "Assaneo, Mar{\\'\\i}a Florencia",
+        "Egu{\\'\\i}a, Manuel",
+        "Sigman, Mariano",
+        "Trevisan, Marcos A"
+      ]
+    },
+    "year": 2013,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "López, S., Riera, P., Assaneo, M. F., Eguía, M., Sigman, M., & Trevisan, M. A. (2013). Vocal caricatures reveal signatures of speaker identity. Scientific reports, 3(1), 3407."
+  },
+  {
+    "key": "proscia2012comparative",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Comparative study of saxophone multiphonic tones: A possible perceptual categorization",
+      "booktitle": "Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society for Cogniitve Sciences of Music",
+      "pages": "822",
+      "year": "2012"
+    },
+    "persons": {
+      "author": [
+        "Proscia, Mart{\\'\\i}n",
+        "Riera, Pablo",
+        "Eguia, M"
+      ]
+    },
+    "year": 2012,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Proscia, M., Riera, P., & Eguia, M. (2012). Comparative study of saxophone multiphonic tones: a possible perceptual categorization. Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society for Cogniitve Sciences of Music (p. 822)."
+  },
+  {
+    "key": "kerllenevich2011santiago",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Santiago-a real-time biological neural network environment for generative music creation",
+      "booktitle": "Applications of Evolutionary Computation: EvoApplications 2011: EvoCOMNET, EvoFIN, EvoHOT, EvoMUSART, EvoSTIM, and EvoTRANSLOG, Torino, Italy, April 27-29, 2011, Proceedings, Part II",
+      "pages": "344--353",
+      "year": "2011",
+      "organization": "Springer Berlin Heidelberg"
+    },
+    "persons": {
+      "author": [
+        "Kerlle{\\~n}evich, Hern{\\'a}n",
+        "Riera, Pablo Ernesto",
+        "Eguia, Manuel Camilo"
+      ]
+    },
+    "year": 2011,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Kerlleñevich, H., Riera, P. E., & Eguia, M. C. (2011). Santiago-a real-time biological neural network environment for generative music creation. Applications of Evolutionary Computation: EvoApplications 2011: EvoCOMNET, EvoFIN, EvoHOT, EvoMUSART, EvoSTIM, and EvoTRANSLOG, Torino, Italy, April 27-29, 2011, Proceedings, Part II (pp. 344–353)."
+  },
+  {
+    "key": "proscia2011estudio",
+    "type": "article",
+    "fields": {
+      "title": "Estudio comparativo del saxof{\\'o}n multif{\\'o}nico a partir de diferentes herramientas de an{\\'a}lisis perceptivo",
+      "journal": "Musicalidad Humana: Debates actuales en evoluci{\\'o}n, desarrollo y cognici{\\'o}n e implicancias socio-culturales: Actas del X Encuentro de Ciencias Cognitivas de la Musica. Buenos Aires: SAACoM",
+      "pages": "317--325",
+      "year": "2011"
+    },
+    "persons": {
+      "author": [
+        "PROSCIA, MARTIN",
+        "RIERA, PABLO",
+        "EGUIA, MANUEL"
+      ]
+    },
+    "year": 2011,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "PROSCIA, M., RIERA, P., & EGUIA, M. (2011). Estudio comparativo del saxofón multifónico a partir de diferentes herramientas de análisis perceptivo. Musicalidad Humana: Debates actuales en evolución, desarrollo y cognición e implicancias socio-culturales: Actas del X Encuentro de Ciencias Cognitivas de la Musica. Buenos Aires: SAACoM, pp. 317–325."
+  },
+  {
+    "key": "kerllenevich2011open",
+    "type": "inproceedings",
+    "fields": {
+      "title": "An open source interface based on biological neural networks for interactive music performance",
+      "booktitle": "New Interfaces for Musical Expression",
+      "year": "2011",
+      "organization": "University of Oslo and Norwegian Academy of Music"
+    },
+    "persons": {
+      "author": [
+        "Kerlle{\\~n}evich, Hern{\\'a}n",
+        "Riera, Pablo",
+        "Eguia, MC"
+      ]
+    },
+    "year": 2011,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Kerlleñevich, H., Riera, P., & Eguia, M. (2011). An open source interface based on biological neural networks for interactive music performance. New Interfaces for Musical Expression."
+  },
+  {
+    "key": "eguia2008fine",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Fine temporal coding in the auditory system: a model for vibrato perception",
+      "booktitle": "Neurolatam I",
+      "year": "2008",
+      "organization": "IBRO LARC"
+    },
+    "persons": {
+      "author": [
+        "Eguia, Manuel C",
+        "Mesz, Bruno A",
+        "Riera, Pablo"
+      ]
+    },
+    "year": 2008,
+    "name": "Pablo_Riera",
+    "method": "scholar",
+    "citation": "Eguia, M. C., Mesz, B. A., & Riera, P. (2008). Fine temporal coding in the auditory system: a model for vibrato perception. Neurolatam I."
+  }
+]
