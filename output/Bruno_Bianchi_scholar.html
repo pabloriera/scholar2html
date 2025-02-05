@@ -1,0 +1,62 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                table { border-collapse: collapse; width: 100%; }
+                th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { background-color: #f5f5f5; }
+                h1 { color: #333; }
+                .filter-links { margin-bottom: 20px; }
+                .filter-links a {
+                    margin-right: 15px;
+                    text-decoration: none;
+                    color: #0066cc;
+                    padding: 5px 10px;
+                    border-radius: 3px;
+                    cursor: pointer;
+                }
+                .filter-links a.active {
+                    background-color: #0066cc;
+                    color: white;
+                }
+                .hidden { display: none; }
+            </style>
+            <script>
+                function filterByName(name) {
+                    const rows = document.querySelectorAll('table tr[data-name]');
+                    const links = document.querySelectorAll('.filter-links a');
+                    
+                    links.forEach(link => {
+                        if (link.getAttribute('data-name') === name || (name === 'all' && link.getAttribute('data-name') === 'all')) {
+                            link.classList.add('active');
+                        } else {
+                            link.classList.remove('active');
+                        }
+                    });
+                    
+                    rows.forEach(row => {
+                        if (name === 'all' || row.getAttribute('data-name') === name) {
+                            row.classList.remove('hidden');
+                        } else {
+                            row.classList.add('hidden');
+                        }
+                    });
+                }
+            </script>
+        </head>
+        <body>
+        <h1>Citations for Bruno_Bianchi</h1><div class="filter-links">
+<a onclick="filterByName('all')" data-name="all" class="active">All</a>
+<a onclick="filterByName('Bruno Bianchi')" data-name="Bruno Bianchi">Bruno Bianchi</a>
+</div>
+
+        <table>
+            <tr><th>Year</th><th>Citation</th></tr>
+        <tr data-name="Bruno_Bianchi"><td>2024</td><td>Fumagalli, J., Sánchez, M. E., Bianchi, B., Cocaro, C., Melman, M., Cancino, M., & Oliva, M. P. (2024). Diccionario de frecuencia léxica infantil para el español rioplatense: el cuenta palabras. Revista Argentina de Ciencias del Comportamiento (RACC), 16(3), 106–106.</td></tr><tr data-name="Bruno_Bianchi"><td>2024</td><td>Hernández, M. A., Travi, F., Kamienkowski, J., Bianchi, B., Carello, A., Helou, B., … others. (2024). Cognitive impairment, brain connectivity, and long-covid: understanding the complex interplay. Alzheimer's & Dementia, 20, e091565.</td></tr><tr data-name="Bruno_Bianchi"><td>2024</td><td>Travi, F., Hernández, M. A., Bianchi, B., Crivelli, L., Allegri, R. F., Fernández Slezak, D., … Kamienkowski, J. E. (2024). Impact of long-covid on the local and global efficiency of brain networks. Clinical Neuroimaging, 1(1-2), e70001.</td></tr><tr data-name="Bruno_Bianchi"><td>2024</td><td>Bianchi, B., Umfurer, A., & Kamienkowski, J. E. (2024). Modelando procesos cognitivos de la lectura natural con gpt-2. arXiv preprint arXiv:2409.20174.</td></tr><tr data-name="Bruno_Bianchi"><td>2024</td><td>Bianchi, B., Agrawal, A., Dehaene, S., Chemla, E., & Lakretz, Y. (2024). Disentanglement and compositionality of letter identity and letter position in variational auto-encoder vision models. arXiv preprint arXiv:2412.10446.</td></tr><tr data-name="Bruno_Bianchi"><td>2023</td><td>Bianchi, B., Loredo, R., da Fonseca, M., Carden, J., Jaichenco, V., von der Malsburg, T., … Kamienkowski, J. (2023). Neural bases of predictions during natural reading of known statements: an electroencephalography and eye movements co-registration study. Neuroscience, 519, 131–146.</td></tr><tr data-name="Bruno_Bianchi"><td>2021</td><td>Ison, M. J., Barbosa, A., Care, D., Bianchi, B., Bujia, G., Ries, A. J., & Kamienkowski, J. E. (2021). Contextual information, visual working memory and inhibitory control in hybrid visual search. Journal of Vision, 21(9), 2537–2537.</td></tr><tr data-name="Bruno_Bianchi"><td>2020</td><td>Bianchi, B., Bengolea Monzón, G., Ferrer, L., Fernández Slezak, D., Shalom, D. E., & Kamienkowski, J. E. (2020). Human and computer estimations of predictability of words in written language. Scientific reports, 10(1), 4396.</td></tr><tr data-name="Bruno_Bianchi"><td>2020</td><td>Bianchi, B., Loredo, R., Carden, J., Jaichenco, V., von der Malsburg, T., Shalom, D., & Kamienkowski, J. (2020). Different sources of predictions during natural reading: an eeg and eye-tracking co-registration study. Journal of Vision, 20(11), 1308–1308.</td></tr><tr data-name="Bruno_Bianchi"><td>2020</td><td>Care, D., Bianchi, B., Kamienkowski, J. E., & Ison, M. J. (2020). Face processing in free viewing visual search: an investigation using concurrent eeg and eye movement recordings. Journal of Vision, 20(11), 1691–1691.</td></tr><tr data-name="Bruno_Bianchi"><td>2019</td><td>Bianchi, B., Shalom, D. E., & Kamienkowski, J. E. (2019). Predicting known sentences: neural basis of proverb reading using non-parametric statistical testing and mixed-effects models. Frontiers in human neuroscience, 13, 82.</td></tr><tr data-name="Bruno_Bianchi"><td>2018</td><td>Kamienkowski, J. E., Carbajal, M. J., Bianchi, B., Sigman, M., & Shalom, D. E. (2018). Cumulative repetition effects across multiple readings of a word: evidence from eye movements. Discourse Processes, 55(3), 256–271.</td></tr><tr data-name="Bruno_Bianchi"><td>2016</td><td>Kamienkowski, J. E., Bengolea Monzón, G., Bianchi, B., & Ferrer, L. (2016). Estimadores computacionales de la predicción humana durante la lectura. Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016).</td></tr><tr data-name="Bruno_Bianchi"><td>2014</td><td>Bianchi, B., Carrillo, F., Fernandez Slezak, D., Kamienkowski, J. E., & Shalom, D. E. (2014). Human and computer estimations of predictability of words on written language. XLIII Jornadas Argentinas de Informática e Investigación Operativa (43JAIIO)-XV Argentine Symposium on Artificial Intelligence (ASAI)(Buenos Aires, 2014).</td></tr>
+        </table>
+        </body>
+        </html>
+        

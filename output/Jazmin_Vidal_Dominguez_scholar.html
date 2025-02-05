@@ -1,0 +1,62 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                table { border-collapse: collapse; width: 100%; }
+                th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { background-color: #f5f5f5; }
+                h1 { color: #333; }
+                .filter-links { margin-bottom: 20px; }
+                .filter-links a {
+                    margin-right: 15px;
+                    text-decoration: none;
+                    color: #0066cc;
+                    padding: 5px 10px;
+                    border-radius: 3px;
+                    cursor: pointer;
+                }
+                .filter-links a.active {
+                    background-color: #0066cc;
+                    color: white;
+                }
+                .hidden { display: none; }
+            </style>
+            <script>
+                function filterByName(name) {
+                    const rows = document.querySelectorAll('table tr[data-name]');
+                    const links = document.querySelectorAll('.filter-links a');
+                    
+                    links.forEach(link => {
+                        if (link.getAttribute('data-name') === name || (name === 'all' && link.getAttribute('data-name') === 'all')) {
+                            link.classList.add('active');
+                        } else {
+                            link.classList.remove('active');
+                        }
+                    });
+                    
+                    rows.forEach(row => {
+                        if (name === 'all' || row.getAttribute('data-name') === name) {
+                            row.classList.remove('hidden');
+                        } else {
+                            row.classList.add('hidden');
+                        }
+                    });
+                }
+            </script>
+        </head>
+        <body>
+        <h1>Citations for Jazmin_Vidal_Dominguez</h1><div class="filter-links">
+<a onclick="filterByName('all')" data-name="all" class="active">All</a>
+<a onclick="filterByName('Jazmin Vidal Dominguez')" data-name="Jazmin Vidal Dominguez">Jazmin Vidal Dominguez</a>
+</div>
+
+        <table>
+            <tr><th>Year</th><th>Citation</th></tr>
+        <tr data-name="Jazmin_Vidal_Dominguez"><td>2024</td><td>Vidal, J., Ribas, D., Bonomi, C., Lleida, E., Ferrer, L., & Ortega, A. (2024). Automatic voice disorder detection from a practical perspective. Journal of Voice.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2024</td><td>Vidal, J., Bonomi, C., Riera, P., & Ferrer, L. (2024). Automatic pronunciation assessment systems for english students from argentina. Communications of the ACM, 67(8), 63–67.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2023</td><td>Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2023). Towards detecting the level of trust in the skills of a virtual assistant from the user’s speech. Computer Speech & Language, 80, 101487.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2023</td><td>Vidal, J., Riera, P., & Ferrer, L. (2023). Mispronunciation detection using self-supervised speech representations. arXiv preprint arXiv:2307.16324.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2022</td><td>Sancinetti, M., Vidal, J., Bonomi, C., & Ferrer, L. (2022). A transfer learning approach for pronunciation scoring. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6812–6816).</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2021</td><td>Sancinetti, M., Vidal, J., Bonomi, C., & Ferrer, L. (2021). A transfer learning based approach for pronunciation scoring. arXiv preprint arXiv:2111.00976.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2021</td><td>Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2021). A study on the manifestation of trust in speech. arXiv preprint arXiv:2102.09370.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2021</td><td>Vidal, J., Bonomi, C., Sancinetti, M., & Ferrer, L. (2021). Phone-level pronunciation scoring for spanish speakers learning english using a gop-dnn system. Interspeech (pp. 4423–4427).</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2020</td><td>Brusco, P., Vidal, J., Beňuš, Š., & Gravano, A. (2020). A cross-linguistic analysis of the temporal dynamics of turn-taking cues using machine learning as a descriptive tool. Speech Communication, 125, 24–40.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2020</td><td>Gauder, L., Riera, P., Pepino, L., Brussino, S., Vidal, J., Ferrer, L., & Gravano, A. (2020). Trust-uba: a corpus for the study of the manifestation of trust in speech. arXiv preprint arXiv:2006.05977.</td></tr><tr data-name="Jazmin_Vidal_Dominguez"><td>2019</td><td>Vidal, J., Ferrer, L., & Brambilla, L. (2019). Epadb: a database for development of pronunciation assessment systems. INTERSPEECH (pp. 589–593).</td></tr>
+        </table>
+        </body>
+        </html>
+        

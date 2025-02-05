@@ -1,0 +1,451 @@
+[
+  {
+    "key": "fumagalli2024diccionario",
+    "type": "article",
+    "fields": {
+      "title": "Diccionario de frecuencia l{\\'e}xica infantil para el espa{\\~n}ol rioplatense: el Cuenta Palabras",
+      "journal": "Revista Argentina de Ciencias del Comportamiento (RACC)",
+      "volume": "16",
+      "number": "3",
+      "pages": "106--106",
+      "year": "2024",
+      "publisher": "Universidad Nacional de C{\\'o}rdoba"
+    },
+    "persons": {
+      "author": [
+        "Fumagalli, Julieta",
+        "S{\\'a}nchez, Mar{\\'\\i}a Emilia",
+        "Bianchi, Bruno",
+        "Cocaro, C{\\'e}sar",
+        "Melman, Mart{\\'\\i}n",
+        "Cancino, Mat{\\'\\i}as",
+        "Oliva, Mar{\\'\\i}a Paz"
+      ]
+    },
+    "year": 2024,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Fumagalli, J., Sánchez, M. E., Bianchi, B., Cocaro, C., Melman, M., Cancino, M., & Oliva, M. P. (2024). Diccionario de frecuencia léxica infantil para el español rioplatense: el cuenta palabras. Revista Argentina de Ciencias del Comportamiento (RACC), 16(3), 106–106."
+  },
+  {
+    "key": "hernandez2024cognitive",
+    "type": "article",
+    "fields": {
+      "title": "Cognitive impairment, brain connectivity, and long-Covid: understanding the complex interplay",
+      "journal": "Alzheimer's \\& Dementia",
+      "volume": "20",
+      "pages": "e091565",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Hern{\\'a}ndez, Micaela A",
+        "Travi, Fermin",
+        "Kamienkowski, Juan",
+        "Bianchi, Bruno",
+        "Carello, Agostina",
+        "Helou, Bel{\\'e}n",
+        "Crivelli, Lucia",
+        "Slezak, Diego Fern{\\'a}ndez",
+        "Sevlever, Gustavo",
+        "Allegri, Ricardo",
+        "others"
+      ]
+    },
+    "year": 2024,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Hernández, M. A., Travi, F., Kamienkowski, J., Bianchi, B., Carello, A., Helou, B., … others. (2024). Cognitive impairment, brain connectivity, and long-covid: understanding the complex interplay. Alzheimer's & Dementia, 20, e091565."
+  },
+  {
+    "key": "travi2024impact",
+    "type": "article",
+    "fields": {
+      "title": "Impact of long-COVID on the local and global efficiency of brain networks",
+      "journal": "Clinical Neuroimaging",
+      "volume": "1",
+      "number": "1-2",
+      "pages": "e70001",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Travi, Ferm{\\'\\i}n",
+        "Hern{\\'a}ndez, Micaela A",
+        "Bianchi, Bruno",
+        "Crivelli, Luc{\\'\\i}a",
+        "Allegri, Ricardo F",
+        "Fern{\\'a}ndez Slezak, Diego",
+        "Calandri, Ismael L",
+        "Kamienkowski, Juan E"
+      ]
+    },
+    "year": 2024,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Travi, F., Hernández, M. A., Bianchi, B., Crivelli, L., Allegri, R. F., Fernández Slezak, D., … Kamienkowski, J. E. (2024). Impact of long-covid on the local and global efficiency of brain networks. Clinical Neuroimaging, 1(1-2), e70001."
+  },
+  {
+    "key": "bianchi2024modelando",
+    "type": "article",
+    "fields": {
+      "title": "Modelando procesos cognitivos de la lectura natural con GPT-2",
+      "journal": "arXiv preprint arXiv:2409.20174",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Umfurer, Alfredo",
+        "Kamienkowski, Juan Esteban"
+      ]
+    },
+    "year": 2024,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Umfurer, A., & Kamienkowski, J. E. (2024). Modelando procesos cognitivos de la lectura natural con gpt-2. arXiv preprint arXiv:2409.20174."
+  },
+  {
+    "key": "bianchi2024disentanglement",
+    "type": "article",
+    "fields": {
+      "title": "Disentanglement and Compositionality of Letter Identity and Letter Position in Variational Auto-Encoder Vision Models",
+      "journal": "arXiv preprint arXiv:2412.10446",
+      "year": "2024"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Agrawal, Aakash",
+        "Dehaene, Stanislas",
+        "Chemla, Emmanuel",
+        "Lakretz, Yair"
+      ]
+    },
+    "year": 2024,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Agrawal, A., Dehaene, S., Chemla, E., & Lakretz, Y. (2024). Disentanglement and compositionality of letter identity and letter position in variational auto-encoder vision models. arXiv preprint arXiv:2412.10446."
+  },
+  {
+    "key": "bianchi2023neural_1",
+    "type": "article",
+    "fields": {
+      "title": "Neural Bases of Predictions During Natural Reading of Known Statements: An Electroencephalography and Eye Movements Co-registration Study",
+      "journal": "Neuroscience",
+      "volume": "519",
+      "pages": "131--146",
+      "year": "2023",
+      "publisher": "Pergamon"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Loredo, Rodrigo",
+        "da Fonseca, Mar{\\'\\i}a",
+        "Carden, Julia",
+        "Jaichenco, Virginia",
+        "von der Malsburg, Titus",
+        "Shalom, Diego E",
+        "Kamienkowski, Juan"
+      ]
+    },
+    "year": 2023,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Loredo, R., da Fonseca, M., Carden, J., Jaichenco, V., von der Malsburg, T., … Kamienkowski, J. (2023). Neural bases of predictions during natural reading of known statements: an electroencephalography and eye movements co-registration study. Neuroscience, 519, 131–146."
+  },
+  {
+    "key": "bianchi2023neural_2",
+    "type": "article",
+    "fields": {
+      "title": "Neural Bases of Predictions During Natural Reading of Known",
+      "year": "2023"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Loredo, Rodrigo",
+        "Da Fonseca, Mar{\\i}a",
+        "Carden, Julia",
+        "Jaichenco, Virginia",
+        "von der Malsburg, Titus",
+        "Shalom, Diego E",
+        "Kamienkowski, Juan"
+      ]
+    },
+    "year": 2023,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "ison2021contextual",
+    "type": "article",
+    "fields": {
+      "title": "Contextual information, visual working memory and inhibitory control in hybrid visual search",
+      "journal": "Journal of Vision",
+      "volume": "21",
+      "number": "9",
+      "pages": "2537--2537",
+      "year": "2021",
+      "publisher": "The Association for Research in Vision and Ophthalmology"
+    },
+    "persons": {
+      "author": [
+        "Ison, Matias J",
+        "Barbosa, Alessandra",
+        "Care, Damian",
+        "Bianchi, Bruno",
+        "Bujia, Gaston",
+        "Ries, Anthony J",
+        "Kamienkowski, Juan E"
+      ]
+    },
+    "year": 2021,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Ison, M. J., Barbosa, A., Care, D., Bianchi, B., Bujia, G., Ries, A. J., & Kamienkowski, J. E. (2021). Contextual information, visual working memory and inhibitory control in hybrid visual search. Journal of Vision, 21(9), 2537–2537."
+  },
+  {
+    "key": "umfurer2021using",
+    "type": "article",
+    "fields": {
+      "title": "Using LSTM-based Language Models and human Eye Movements metrics to understand next-word predictions",
+      "year": "2021"
+    },
+    "persons": {
+      "author": [
+        "Umfurer, Alfredo",
+        "Kamienkowski, Juan",
+        "Bianchi, Bruno"
+      ]
+    },
+    "year": 2021,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "jaichenco2020habilidades",
+    "type": "article",
+    "fields": {
+      "title": "Habilidades morfol{\\'o}gicas, sint{\\'a}cticas y pragm{\\'a}ticas en la comprensi{\\'o}n lectora. Evidencia psicoling{\\\"u}{\\'\\i}stica y neurofisiol{\\'o}gica",
+      "year": "2020"
+    },
+    "persons": {
+      "author": [
+        "Jaichenco, Virginia Irene",
+        "Sevilla, Yamila",
+        "Szenkman, Daniela",
+        "D'Alessio, Mar{\\'\\i}a Josefina",
+        "S{\\'a}nchez, Mar{\\'\\i}a",
+        "Elina Shalom, Diego",
+        "Fumagalli, Julieta Carolina",
+        "Jacubovich, Silvia",
+        "Loredo, Rodrigo",
+        "Friese, Gabriela Vanina",
+        "others"
+      ]
+    },
+    "year": 2020,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": ""
+  },
+  {
+    "key": "bianchi2020human",
+    "type": "article",
+    "fields": {
+      "title": "Human and computer estimations of Predictability of words in written language",
+      "journal": "Scientific reports",
+      "volume": "10",
+      "number": "1",
+      "pages": "4396",
+      "year": "2020",
+      "publisher": "Nature Publishing Group UK London"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Bengolea Monz{\\'o}n, Gast{\\'o}n",
+        "Ferrer, Luciana",
+        "Fern{\\'a}ndez Slezak, Diego",
+        "Shalom, Diego E",
+        "Kamienkowski, Juan E"
+      ]
+    },
+    "year": 2020,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Bengolea Monzón, G., Ferrer, L., Fernández Slezak, D., Shalom, D. E., & Kamienkowski, J. E. (2020). Human and computer estimations of predictability of words in written language. Scientific reports, 10(1), 4396."
+  },
+  {
+    "key": "bianchi2020different",
+    "type": "article",
+    "fields": {
+      "title": "Different sources of predictions during natural Reading: An EEG and eye-tracking co-registration study",
+      "journal": "Journal of Vision",
+      "volume": "20",
+      "number": "11",
+      "pages": "1308--1308",
+      "year": "2020",
+      "publisher": "The Association for Research in Vision and Ophthalmology"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Loredo, Rodrigo",
+        "Carden, Julia",
+        "Jaichenco, Virginia",
+        "von der Malsburg, Titus",
+        "Shalom, Diego",
+        "Kamienkowski, Juan"
+      ]
+    },
+    "year": 2020,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Loredo, R., Carden, J., Jaichenco, V., von der Malsburg, T., Shalom, D., & Kamienkowski, J. (2020). Different sources of predictions during natural reading: an eeg and eye-tracking co-registration study. Journal of Vision, 20(11), 1308–1308."
+  },
+  {
+    "key": "care2020face",
+    "type": "article",
+    "fields": {
+      "title": "Face processing in free viewing visual search: An investigation using concurrent EEG and eye movement recordings",
+      "journal": "Journal of Vision",
+      "volume": "20",
+      "number": "11",
+      "pages": "1691--1691",
+      "year": "2020",
+      "publisher": "The Association for Research in Vision and Ophthalmology"
+    },
+    "persons": {
+      "author": [
+        "Care, Damian",
+        "Bianchi, Bruno",
+        "Kamienkowski, Juan Esteban",
+        "Ison, Matias J"
+      ]
+    },
+    "year": 2020,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Care, D., Bianchi, B., Kamienkowski, J. E., & Ison, M. J. (2020). Face processing in free viewing visual search: an investigation using concurrent eeg and eye movement recordings. Journal of Vision, 20(11), 1691–1691."
+  },
+  {
+    "key": "bianchi2019predicting",
+    "type": "article",
+    "fields": {
+      "title": "Predicting known sentences: Neural basis of proverb reading using non-parametric statistical testing and mixed-effects models",
+      "journal": "Frontiers in human neuroscience",
+      "volume": "13",
+      "pages": "82",
+      "year": "2019",
+      "publisher": "Frontiers Media SA"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Shalom, Diego E",
+        "Kamienkowski, Juan E"
+      ]
+    },
+    "year": 2019,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Shalom, D. E., & Kamienkowski, J. E. (2019). Predicting known sentences: neural basis of proverb reading using non-parametric statistical testing and mixed-effects models. Frontiers in human neuroscience, 13, 82."
+  },
+  {
+    "key": "kamienkowski2018cumulative",
+    "type": "article",
+    "fields": {
+      "title": "Cumulative repetition effects across multiple readings of a word: Evidence from eye movements",
+      "journal": "Discourse Processes",
+      "volume": "55",
+      "number": "3",
+      "pages": "256--271",
+      "year": "2018",
+      "publisher": "Routledge"
+    },
+    "persons": {
+      "author": [
+        "Kamienkowski, Juan E",
+        "Carbajal, M Julia",
+        "Bianchi, Bruno",
+        "Sigman, Mariano",
+        "Shalom, Diego E"
+      ]
+    },
+    "year": 2018,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Kamienkowski, J. E., Carbajal, M. J., Bianchi, B., Sigman, M., & Shalom, D. E. (2018). Cumulative repetition effects across multiple readings of a word: evidence from eye movements. Discourse Processes, 55(3), 256–271."
+  },
+  {
+    "key": "kamienkowski2016estimadores",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Estimadores computacionales de la predicci{\\'o}n humana durante la lectura",
+      "booktitle": "Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016).",
+      "year": "2016"
+    },
+    "persons": {
+      "author": [
+        "Kamienkowski, Juan E",
+        "Bengolea Monz{\\'o}n, G",
+        "Bianchi, B",
+        "Ferrer, L"
+      ]
+    },
+    "year": 2016,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Kamienkowski, J. E., Bengolea Monzón, G., Bianchi, B., & Ferrer, L. (2016). Estimadores computacionales de la predicción humana durante la lectura. Simposio Argentino de Inteligencia Artificial (ASAI 2016)-JAIIO 45 (Tres de Febrero, 2016)."
+  },
+  {
+    "key": "bianchi2014human",
+    "type": "inproceedings",
+    "fields": {
+      "title": "Human and computer estimations of Predictability of words on written language",
+      "booktitle": "XLIII Jornadas Argentinas de Inform{\\'a}tica e Investigaci{\\'o}n Operativa (43JAIIO)-XV Argentine Symposium on Artificial Intelligence (ASAI)(Buenos Aires, 2014)",
+      "year": "2014",
+      "organization": "https://www.researchgate.net/publication~…"
+    },
+    "persons": {
+      "author": [
+        "Bianchi, Bruno",
+        "Carrillo, Facundo",
+        "Fernandez Slezak, Diego",
+        "Kamienkowski, Juan E",
+        "Shalom, Diego E"
+      ]
+    },
+    "year": 2014,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": "Bianchi, B., Carrillo, F., Fernandez Slezak, D., Kamienkowski, J. E., & Shalom, D. E. (2014). Human and computer estimations of predictability of words on written language. XLIII Jornadas Argentinas de Informática e Investigación Operativa (43JAIIO)-XV Argentine Symposium on Artificial Intelligence (ASAI)(Buenos Aires, 2014)."
+  },
+  {
+    "key": "d2014evaluation",
+    "type": "article",
+    "fields": {
+      "title": "Evaluation of the product Fazor{\\textregistered} as potato sprout inhibitor in conservation.",
+      "year": "2014"
+    },
+    "persons": {
+      "author": [
+        "D'Ascenzo, D",
+        "Crivelli, L",
+        "Bianchi, B",
+        "Medico, E",
+        "Arbizzani, A",
+        "Vito, O di"
+      ]
+    },
+    "year": 2014,
+    "name": "Bruno_Bianchi",
+    "method": "scholar",
+    "citation": ""
+  }
+]
