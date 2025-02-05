@@ -4,7 +4,6 @@ import os
 from typing import Dict, List, Tuple, Any
 import argparse
 
-from IPython import embed
 
 from scholar2bibtex.utils import remove_duplicates
 from ..utils.downloader import CitationDownloader

@@ -1,6 +1,5 @@
 """Utility modules for Scholar2BibTeX.""" 
 
-from IPython import embed
 from difflib import SequenceMatcher 
 
 

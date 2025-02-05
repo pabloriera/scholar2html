@@ -1,6 +1,5 @@
 """Module for rendering citations in various formats."""
 from typing import List, Tuple, Optional, Dict, Any
-from IPython import embed
 from pybtex.database.input import bibtex
 from pybtex.plugin import find_plugin
 import os
