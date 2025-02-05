@@ -4,6 +4,8 @@ import os
 from typing import Dict, List, Tuple, Any
 import argparse
 
+from IPython import embed
+
 from scholar2bibtex.utils import remove_duplicates
 from ..utils.downloader import CitationDownloader
 from ..utils.renderer import CitationRenderer
@@ -23,8 +25,6 @@ def main():
     output_dir = config.get('output_dir', 'output')
     style = config.get('style', 'plain')
     mandatory_fields = config.get('mandatory_fields', ['year'])
-    
-
     
     # Lists to store all citations and entries
     all_citations: List[Tuple[int, str]] = []
@@ -58,13 +58,13 @@ def main():
             
         # Load and render citations
         bib_data = renderer.load_bibtex(bibtex_file)
-        citations, entries = renderer.render_citations(bib_data, mandatory_fields=mandatory_fields)
+        entries = renderer.render_citations(bib_data, method=method, name=name, mandatory_fields=mandatory_fields)
         
         # Generate individual HTML and JSON
         html_file = os.path.join(output_dir, f"{name}_{method}.html")
         json_file = os.path.join(output_dir, f"{name}_{method}.json")
         
-        output_path = renderer.generate_html(citations, html_file, title=f"Citations for {name}")
+        output_path = renderer.generate_html(entries, html_file, title=f"Citations for {name}")
         renderer.save_json(entries, json_file)
         
         print(f"Generated files for {name}:")
@@ -72,25 +72,19 @@ def main():
         print(f"  JSON: {json_file}")
         
         # Add to combined lists
-        all_citations.extend(citations)
         all_entries.extend(entries)
     
     # Remove duplicates
-    all_citations, all_entries = remove_duplicates(all_citations, all_entries)
-
+    all_entries = remove_duplicates(all_entries)
 
     # Generate combined files
-    if all_citations:
+    if all_entries:
         # Initialize components
         renderer = CitationRenderer(style_name=style)
         
-        # Sort and remove duplicates from combined citations
-        all_citations.sort(key=lambda x: (x[0], x[1]), reverse=True)
-        all_citations = list(dict.fromkeys(map(tuple, all_citations)))
-        
         # Generate combined HTML
         all_html_file = os.path.join(output_dir, "all.html")
-        renderer.generate_html(all_citations, all_html_file, title="All Citations")
+        renderer.generate_html(all_entries, all_html_file)
         
         # Generate combined JSON
         all_json_file = os.path.join(output_dir, "all.json")

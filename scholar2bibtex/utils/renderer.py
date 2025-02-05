@@ -70,7 +70,7 @@ class CitationRenderer:
                        for role, persons in entry.persons.items()}
         }
         
-    def render_citations(self, bib_data, mandatory_fields: List[str] = None) -> Tuple[List[Tuple[int, str]], List[Dict[str, Any]]]:
+    def render_citations(self, bib_data, method: str, name: str, mandatory_fields: List[str] = None) -> Tuple[List[Tuple[int, str]], List[Dict[str, Any]]]:
         """
         Render citations in the specified format.
         
@@ -86,8 +86,7 @@ class CitationRenderer:
         if mandatory_fields is None:
             mandatory_fields = ["year"]
             
-        formatted_output = []
-        json_entries = []
+        entries = []
         
         for entry in bib_data.entries.values():
             if 'year' not in entry.fields:
@@ -98,24 +97,31 @@ class CitationRenderer:
                 continue
                 
             year = int(entry.fields['year'])
-            json_entries.append(self._entry_to_dict(entry))
+            entry_dict = self._entry_to_dict(entry)
+            entry_dict['year'] = year
+            entry_dict['name'] = name
+            entry_dict['method'] = method
             
+            formatted_output = ""
             try:
                 formatted_entry = list(self.style.format_entries([entry]))[0]
-                formatted_output.append((year, formatted_entry.text.render_as('text')))
+                formatted_output = formatted_entry.text.render_as('text')
             except Exception as e:
                 print(f"Error rendering entry: {entry.key} with style {self.style_name}. Error: {e}")
                 try:
                     formatted_entry = list(self.style_plain.format_entries([entry]))[0]
-                    formatted_output.append((year, formatted_entry.text.render_as('text')))
+                    formatted_output = formatted_entry.text.render_as('text')
                 except Exception as e:
                     print(f"Error rendering entry: {entry.key} with style plain. Error: {e}")
-                    
-        return formatted_output, json_entries
+            
+            entry_dict['citation'] = formatted_output
+            entries.append(entry_dict)
+
+        return entries
         
-    def generate_html(self, citations: List[Tuple[int, str]], output_file: str, title: str = None) -> str:
+    def generate_html(self, entries: List[Dict[str, Any]], output_file: str, title: str = None) -> str:
         """
-        Generate HTML output for the citations.
+        Generate HTML output for the citations with name-based filtering.
         
         Args:
             citations: List of (year, citation) tuples
@@ -126,7 +132,10 @@ class CitationRenderer:
             Absolute path to the generated HTML file
         """
         # Sort citations by year in descending order
-        citations.sort(key=lambda x: x[0], reverse=True)
+        entries.sort(key=lambda x: x['year'], reverse=True)
+        
+        # Get unique names
+        unique_names = sorted(list(set(entry['name'].replace('_', ' ') for entry in entries)))
         
         # Create HTML content
         html = """
@@ -140,21 +149,66 @@ class CitationRenderer:
                 th { background-color: #f2f2f2; }
                 tr:hover { background-color: #f5f5f5; }
                 h1 { color: #333; }
+                .filter-links { margin-bottom: 20px; }
+                .filter-links a {
+                    margin-right: 15px;
+                    text-decoration: none;
+                    color: #0066cc;
+                    padding: 5px 10px;
+                    border-radius: 3px;
+                    cursor: pointer;
+                }
+                .filter-links a.active {
+                    background-color: #0066cc;
+                    color: white;
+                }
+                .hidden { display: none; }
             </style>
+            <script>
+                function filterByName(name) {
+                    const rows = document.querySelectorAll('table tr[data-name]');
+                    const links = document.querySelectorAll('.filter-links a');
+                    
+                    links.forEach(link => {
+                        if (link.getAttribute('data-name') === name || (name === 'all' && link.getAttribute('data-name') === 'all')) {
+                            link.classList.add('active');
+                        } else {
+                            link.classList.remove('active');
+                        }
+                    });
+                    
+                    rows.forEach(row => {
+                        if (name === 'all' || row.getAttribute('data-name') === name) {
+                            row.classList.remove('hidden');
+                        } else {
+                            row.classList.add('hidden');
+                        }
+                    });
+                }
+            </script>
         </head>
         <body>
         """
         
         if title:
             html += f"<h1>{title}</h1>"
+        
+        # Add filter links
+        html += '<div class="filter-links">\n'
+        html += f'<a onclick="filterByName(\'all\')" data-name="all" class="active">All</a>\n'
+        for name in unique_names:
+            html += f'<a onclick="filterByName(\'{name}\')" data-name="{name}">{name}</a>\n'
+        html += '</div>\n'
             
         html += """
         <table>
             <tr><th>Year</th><th>Citation</th></tr>
         """
         
-        for year, citation in citations:
-            html += f"<tr><td>{year}</td><td>{citation}</td></tr>"
+        for entry in entries:
+            if entry['citation'] == '':
+                continue
+            html += f'<tr data-name="{entry["name"]}"><td>{entry["year"]}</td><td>{entry["citation"]}</td></tr>'
             
         html += """
         </table>
