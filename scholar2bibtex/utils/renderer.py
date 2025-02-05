@@ -1,10 +1,14 @@
 """Module for rendering citations in various formats."""
 from typing import List, Tuple, Optional, Dict, Any
+from IPython import embed
 from pybtex.database.input import bibtex
 from pybtex.plugin import find_plugin
 import os
 import json
 import re
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import quote_plus, urljoin
 
 class CitationRenderer:
     """Class to handle citation rendering and formatting."""
@@ -14,6 +18,7 @@ class CitationRenderer:
         self.parser = bibtex.Parser()
         self.style = find_plugin('pybtex.style.formatting', style_name)()
         self.style_plain = find_plugin('pybtex.style.formatting', "plain")()
+
         
     def load_bibtex(self, file_path: str):
         """
@@ -100,7 +105,8 @@ class CitationRenderer:
             entry_dict['year'] = year
             entry_dict['name'] = name
             entry_dict['method'] = method
-            
+            url = self.get_scholar_link(entry.fields['title'])
+            entry_dict['url'] = url
             formatted_output = ""
             try:
                 formatted_entry = list(self.style.format_entries([entry]))[0]
@@ -146,7 +152,12 @@ class CitationRenderer:
                 table { border-collapse: collapse; width: 100%; }
                 th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
                 th { background-color: #f2f2f2; }
-                tr:hover { background-color: #f5f5f5; }
+                tr:hover { 
+                    background-color: #f5f5f5;
+                    text-decoration: underline;
+                    color: #0066cc;
+                    cursor: pointer;
+                }
                 h1 { color: #333; }
                 .filter-links { margin-bottom: 20px; }
                 .filter-links a {
@@ -184,6 +195,10 @@ class CitationRenderer:
                         }
                     });
                 }
+
+                function openUrl(url) {
+                    window.open(url, '_blank');
+                }
             </script>
         </head>
         <body>
@@ -208,7 +223,8 @@ class CitationRenderer:
         for entry in entries:
             if entry['citation'] == '':
                 continue
-            html += f'<tr data-name="{entry["name"]}"><td>{entry["year"]}</td><td>{entry["citation"]}</td></tr>'
+            html += f'<tr data-name="{entry["name"]}" onclick="openUrl(\'{entry["url"]}\')">'
+            html += f'<td>{entry["year"]}</td><td>{entry["citation"]}</td></tr>'
             
         html += """
         </table>
@@ -236,4 +252,56 @@ class CitationRenderer:
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(entries, f, indent=2, ensure_ascii=False)
             
-        return os.path.abspath(output_file) 
+        return os.path.abspath(output_file)
+
+    def get_scholar_link(self, title: str, retrieve_url: bool = False) -> str:
+        """
+        Search Google Scholar for a paper title and return its URL if found.
+        
+        Args:
+            title: The title of the paper to search for
+            
+        Returns:
+            str: The direct URL to the paper if found, otherwise the Google Scholar search URL
+        """
+
+        # Headers to mimic a browser request
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://google.com",
+            "Connection": "keep-alive",
+        }
+
+        # Construct the search URL
+        search_query = quote_plus(title)
+        scholar_url = f"https://scholar.google.com/scholar?q={search_query}"
+
+        if retrieve_url:
+            try:
+                # Make the request to Google Scholar
+                response = requests.get(scholar_url, headers=headers, timeout=2)
+                response.raise_for_status()
+                
+                # Parse the HTML response
+                soup = BeautifulSoup(response.text, 'html.parser')
+                
+                # Look for the div with class gs_or_ggsm
+                result_div = soup.find('div', class_='gs_or_ggsm')
+                
+                if result_div:
+                    # Find the first anchor tag within this div
+                    link = result_div.find('a')
+                    if link and 'href' in link.attrs:
+                        # Return the absolute URL
+                        return link['href']
+                
+                # If no specific result found, return the search URL
+                return scholar_url
+                
+            except Exception as e:
+                print(f"Error searching Google Scholar: {e}")
+                return scholar_url 
+        else:
+            return scholar_url
+    

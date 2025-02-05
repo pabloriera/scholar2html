@@ -21,6 +21,7 @@
     "year": 2024,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Automatic+Voice+Disorder+Detection+from+a+Practical+Perspective",
     "citation": "Vidal, J., Ribas, D., Bonomi, C., Lleida, E., Ferrer, L., & Ortega, A. (2024). Automatic voice disorder detection from a practical perspective. Journal of Voice."
   },
   {
@@ -46,6 +47,7 @@
     "year": 2024,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Automatic+Pronunciation+Assessment+Systems+for+English+Students+from+Argentina",
     "citation": "Vidal, J., Bonomi, C., Riera, P., & Ferrer, L. (2024). Automatic pronunciation assessment systems for english students from argentina. Communications of the ACM, 67(8), 63–67."
   },
   {
@@ -73,6 +75,7 @@
     "year": 2023,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Towards+detecting+the+level+of+trust+in+the+skills+of+a+virtual+assistant+from+the+user%E2%80%99s+speech",
     "citation": "Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2023). Towards detecting the level of trust in the skills of a virtual assistant from the user’s speech. Computer Speech & Language, 80, 101487."
   },
   {
@@ -93,6 +96,7 @@
     "year": 2023,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Mispronunciation+detection+using+self-supervised+speech+representations",
     "citation": "Vidal, J., Riera, P., & Ferrer, L. (2023). Mispronunciation detection using self-supervised speech representations. arXiv preprint arXiv:2307.16324."
   },
   {
@@ -116,6 +120,7 @@
     "year": 2022,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=A+transfer+learning+approach+for+pronunciation+scoring",
     "citation": "Sancinetti, M., Vidal, J., Bonomi, C., & Ferrer, L. (2022). A transfer learning approach for pronunciation scoring. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6812–6816)."
   },
   {
@@ -137,6 +142,7 @@
     "year": 2021,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=A+transfer+learning+based+approach+for+pronunciation+scoring",
     "citation": "Sancinetti, M., Vidal, J., Bonomi, C., & Ferrer, L. (2021). A transfer learning based approach for pronunciation scoring. arXiv preprint arXiv:2111.00976."
   },
   {
@@ -161,6 +167,7 @@
     "year": 2021,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=A+Study+on+the+manifestation+of+trust+in+speech",
     "citation": "Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2021). A study on the manifestation of trust in speech. arXiv preprint arXiv:2102.09370."
   },
   {
@@ -183,6 +190,7 @@
     "year": 2021,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Phone-Level+Pronunciation+Scoring+for+Spanish+Speakers+Learning+English+Using+a+GOP-DNN+System.",
     "citation": "Vidal, J., Bonomi, C., Sancinetti, M., & Ferrer, L. (2021). Phone-level pronunciation scoring for spanish speakers learning english using a gop-dnn system. Interspeech (pp. 4423–4427)."
   },
   {
@@ -207,6 +215,7 @@
     "year": 2020,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=A+cross-linguistic+analysis+of+the+temporal+dynamics+of+turn-taking+cues+using+machine+learning+as+a+descriptive+tool",
     "citation": "Brusco, P., Vidal, J., Beňuš, Š., & Gravano, A. (2020). A cross-linguistic analysis of the temporal dynamics of turn-taking cues using machine learning as a descriptive tool. Speech Communication, 125, 24–40."
   },
   {
@@ -231,6 +240,7 @@
     "year": 2020,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=Trust-UBA%3A+A+Corpus+for+the+Study+of+the+Manifestation+of+Trust+in+Speech",
     "citation": "Gauder, L., Riera, P., Pepino, L., Brussino, S., Vidal, J., Ferrer, L., & Gravano, A. (2020). Trust-uba: a corpus for the study of the manifestation of trust in speech. arXiv preprint arXiv:2006.05977."
   },
   {
@@ -252,6 +262,7 @@
     "year": 2019,
     "name": "Jazmin_Vidal_Dominguez",
     "method": "scholar",
+    "url": "https://scholar.google.com/scholar?q=EpaDB%3A+A+Database+for+Development+of+Pronunciation+Assessment+Systems.",
     "citation": "Vidal, J., Ferrer, L., & Brambilla, L. (2019). Epadb: a database for development of pronunciation assessment systems. INTERSPEECH (pp. 589–593)."
   }
 ]

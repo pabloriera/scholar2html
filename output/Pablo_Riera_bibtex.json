@@ -29,6 +29,7 @@
     "year": 2024,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Automatic+Pronunciation+Assessment+Systems+for+English+Students+from+Argentina",
     "citation": "Vidal, Jazm\\'ın, Bonomi, C., Riera, P., & Ferrer, L. (2024 , August). Automatic pronunciation assessment systems for english students from argentina. Commun. ACM, 67(8), 63–67. URL: https://doi.org/10.1145/3653326, doi:10.1145/3653326"
   },
   {
@@ -52,6 +53,7 @@
     "year": 2024,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=EnCodecMAE%3A+Leveraging+neural+codecs+for+universal+audio+representation+learning",
     "citation": "Pepino, L., Riera, P., & Ferrer, L. (2024). EnCodecMAE: Leveraging neural codecs for universal audio representation learning."
   },
   {
@@ -78,6 +80,7 @@
     "year": 2024,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=The+Unreliability+of+Acoustic+Systems+in+Alzheimer%27s+Speech+Datasets+with+Heterogeneous+Recording+Conditions",
     "citation": "Gauder, L., Riera, P., Slachevsky, A., Forno, G., Garcia, A. M., & Ferrer, L. (2024). The Unreliability of Acoustic Systems in Alzheimer's Speech Datasets with Heterogeneous Recording Conditions."
   },
   {
@@ -104,6 +107,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Toolkit+to+Examine+Lifelike+Language+%28TELL%29%3A+An+app+to+capture+speech+and+language+markers+of+neurodegeneration",
     "citation": "García, A. M., Johann, F., Echegoyen, R., Calcaterra, C., Riera, P., Belloli, L., & Carrillo, F. (2023). Toolkit to examine lifelike language (tell): an app to capture speech and language markers of neurodegeneration. Behavior Research Methods, pp. 1–15."
   },
   {
@@ -124,6 +128,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=An+embedded+wavetable+synthesizer+for+the+electronic+bandoneon+with+parameter+mappings+based+on+acoustical+measurements",
     "citation": "Ramos, J. M., Calcagno, E. R., & Riera, P. E. (2023). An embedded wavetable synthesizer for the electronic bandoneon with parameter mappings based on acoustical measurements. Proceedings of the International Conference on New Interfaces for Musical Expression."
   },
   {
@@ -150,6 +155,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=%7BTeamwork+Quality+Prediction+Using+Speech-Based+Features%7D",
     "citation": "Meza, M., Gauder, L., Estienne, L., Barchi, R., Gravano, A., Riera, P., & Ferrer, L. (2023). Teamwork Quality Prediction Using Speech-Based Features. Proc. SMM23, Workshop on Speech, Music and Mind 2023 (pp. 1–5). doi:10.21437/SMM.2023-1"
   },
   {
@@ -172,6 +178,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=%7BMispronunciation+detection+using+self-supervised+speech+representations%7D",
     "citation": "Vidal, J., Riera, P., & Ferrer, L. (2023). Mispronunciation detection using self-supervised speech representations. Proc. 9th Workshop on Speech and Language Technology in Education (SLaTE) (pp. 71–75). doi:10.21437/SLaTE.2023-15"
   },
   {
@@ -198,6 +205,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=%7BApparent+personality+prediction+from+speech+using+expert+features+and+wav2vec+2.0%7D",
     "citation": "Barchi, R., Pepino, L., Gauder, L., Estienne, L., Meza, M., Riera, P., & Ferrer, L. (2023). Apparent personality prediction from speech using expert features and wav2vec 2.0. Proc. SMM23, Workshop on Speech, Music and Mind 2023 (pp. 21–25). doi:10.21437/SMM.2023-5"
   },
   {
@@ -221,6 +229,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Phone+and+Speaker+Spatial+Organization+in+Self-Supervised+Speech+Representations",
     "citation": "Riera, P. E., Cerdeiro, M. A., Pepino, L., & Ferrer, L. (2023). Phone and speaker spatial organization in self-supervised speech representations. 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), pp. 1-5. URL: https://api.semanticscholar.org/CorpusID:257233071"
   },
   {
@@ -250,6 +259,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Towards+detecting+the+level+of+trust+in+the+skills+of+a+virtual+assistant+from+the+user%E2%80%99s+speech",
     "citation": "Gauder, L., Pepino, L., Riera, P., Brussino, S., Vidal, J., Gravano, A., & Ferrer, L. (2023). Towards detecting the level of trust in the skills of a virtual assistant from the user’s speech. Computer Speech & Language, p. 101487. URL: https://www.sciencedirect.com/science/article/pii/S0885230823000062, doi:https://doi.org/10.1016/j.csl.2023.101487"
   },
   {
@@ -279,6 +289,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=%7BAn+Electronic+Bandoneon+with+a+Dynamic+Sound+Synthesis+System+Based+on+Measured+Acoustic+Parameters%7D",
     "citation": "Ramos, J., Calcagno, E., Vergara, R., Rizza, J., & Riera, P. (2023 , 02). An Electronic Bandoneon with a Dynamic Sound Synthesis System Based on Measured Acoustic Parameters. Computer Music Journal, pp. 1-47. URL: https://doi.org/10.1162/comj\\_a\\_00636, arXiv:https://direct.mit.edu/comj/article-pdf/doi/10.1162/comj\\_a\\_00636/2071545/comj\\_a\\_00636.pdf, doi:10.1162/comj_a_00636"
   },
   {
@@ -304,6 +315,7 @@
     "year": 2023,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Team+work+quality+prediction+using+speech-based+features",
     "citation": "Meza, M., Gauder, L., Estiene, L., Barchi, R., Gravano, A., Riera, P., & Ferrer, L. (2023). Team work quality prediction using speech-based features. Proc. SMM23, Workshop on Speech, Music and Mind 2023 (pp. 6–10)."
   },
   {
@@ -329,6 +341,7 @@
     "year": 2022,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Bandoneon+2.0%3A+an+interdisciplinary+project+for+research+and+development+of+electronic+bandoneons+in+%7BArgentina%7D",
     "citation": "Ramos, J., Calcagno, E. R., Vergara, R. o., Riera, P., & Rizza, J. (2022 , jun 16). Bandoneon 2.0: an interdisciplinary project for research and development of electronic bandoneons in Argentina. NIME 2022. https://nime.pubpub.org/pub/31l4lgcd."
   },
   {
@@ -353,6 +366,7 @@
     "year": 2022,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Study+of+Positional+Encoding+Approaches+for+Audio+Spectrogram+Transformers",
     "citation": "Pepino, L., Riera, P., & Ferrer, L. (2022). Study of positional encoding approaches for audio spectrogram transformers. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3713-3717). doi:10.1109/ICASSP43922.2022.9747742"
   },
   {
@@ -383,6 +397,7 @@
     "year": 2022,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=A+Port+of+the+SuperCollider%E2%80%99s+Class+Library+to+Python",
     "citation": "Samaruga, L., & Riera, P. (2022). A port of the supercollider’s class library to python. Proceedings of the 17th International Audio Mostly Conference (pp. 137–142). New York, NY, USA: Association for Computing Machinery. URL: https://doi.org/10.1145/3561212.3561250, doi:10.1145/3561212.3561250"
   },
   {
@@ -409,6 +424,7 @@
     "year": 2021,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=A+simple+and+cheap+setup+for+timing+tapping+responses+synchronized+to+auditory+stimuli",
     "citation": "Miguel, M. A., Riera, P., & Slezak, D. F. (2021 , Aug). A simple and cheap setup for timing tapping responses synchronized to auditory stimuli. Behavior Research Methods. URL: https://doi.org/10.3758/s13428-021-01653-y, doi:10.3758/s13428-021-01653-y"
   },
   {
@@ -431,14 +447,19 @@
     "year": 2021,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=%7BEmotion+Recognition+from+Speech+Using+wav2vec+2.0+Embeddings%7D",
     "citation": "Pepino, L., Riera, P., & Ferrer, L. (2021). Emotion Recognition from Speech Using wav2vec 2.0 Embeddings. Proc. Interspeech 2021 (pp. 3400–3404). doi:10.21437/Interspeech.2021-703"
   },
   {
-    "key": "gauder2021alzheimer",
-    "type": "article",
+    "key": "gauder21_interspeech",
+    "type": "inproceedings",
     "fields": {
       "title": "Alzheimer Disease Recognition Using Speech-Based Embeddings From Pre-Trained Models",
-      "year": "2021"
+      "year": "2021",
+      "booktitle": "Interspeech 2021",
+      "pages": "3795--3799",
+      "doi": "10.21437/Interspeech.2021-753",
+      "issn": "2958-1796"
     },
     "persons": {
       "author": [
@@ -451,7 +472,8 @@
     "year": 2021,
     "name": "Pablo_Riera",
     "method": "bibtex",
-    "citation": ""
+    "url": "https://scholar.google.com/scholar?q=Alzheimer+Disease+Recognition+Using+Speech-Based+Embeddings+From+Pre-Trained+Models",
+    "citation": "Gauder, L., Pepino, L., Ferrer, L., & Riera, P. (2021). Alzheimer disease recognition using speech-based embeddings from pre-trained models. Interspeech 2021 (pp. 3795–3799). doi:10.21437/Interspeech.2021-753"
   },
   {
     "key": "rolla2021self",
@@ -476,6 +498,7 @@
     "year": 2021,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Self-similarity+of+Classical+Music+Networks",
     "citation": "Rolla, V., Riera, P., Souza, P., Zubelli, J., & Velho, L. (2021). Self-similarity of classical music networks. Fractals, 29(2), 2150041–766."
   },
   {
@@ -498,6 +521,7 @@
     "year": 2020,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Fusion+approaches+for+emotion+recognition+from+speech+using+acoustic+and+text-based+features",
     "citation": "Pepino, L., Riera, P., Ferrer, L., & Gravano, A. (2020). Fusion approaches for emotion recognition from speech using acoustic and text-based features. ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)."
   },
   {
@@ -516,6 +540,7 @@
     "year": 2020,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Teaching+Math+through+Music",
     "citation": "Riera, P. E. (2020). Teaching math through music. Instituto Nacional de Matemática Pura e Aplicada."
   },
   {
@@ -534,6 +559,7 @@
     "year": 2019,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Ode%27s+ode",
     "citation": "Riera, P. E. (2019). Ode's ode. Live Coding Music IMPA. Instituto Nacional de Matemática Pura e Aplicada."
   },
   {
@@ -559,6 +585,7 @@
     "year": 2019,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Analysing+the+impact+of+music+on+the+perception+of+red+wine+via+Temporal+Dominance+of+Sensations",
     "citation": "Wang, Q., Mesz, B., Riera, P., Trevisan, M., Sigman, M., Gruha, A., & Spence, C. (2019). Analysing the impact of music on the perception of red wine via temporal dominance of sensations. Multisensory Research."
   },
   {
@@ -582,6 +609,7 @@
     "year": 2019,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=A+protocol+for+collecting+speech+data+with+varying+degrees+of+trust",
     "citation": "Gauder, L., Gravano, A., Ferrer, L., Riera, P., & Brussino, S. (2019). A protocol for collecting speech data with varying degrees of trust. Proc. SMM19, Workshop on Speech, Music and Mind 2019 (pp. 6–10)."
   },
   {
@@ -603,6 +631,7 @@
     "year": 2019,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=No+Sample+Left+Behind%3A+Towards+a+Comprehensive+Evaluation+of+Speech+Emotion+Recognition+System",
     "citation": "Riera, P., Ferrer, L., Gravano, A., & Gauder, L. (2019). No sample left behind: towards a comprehensive evaluation of speech emotion recognition system. Proc. SMM19, Workshop on Speech, Music and Mind 2019."
   },
   {
@@ -623,6 +652,7 @@
     "year": 2017,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Timbre+spaces+with+sparse+autoencoders",
     "citation": "Riera, P. E., Zabaljáuregui, M., & Eguía, M. C. (2017). Timbre spaces with sparse autoencoders. Proceedings of the 16th Brazilian Symposium on Computer Music."
   },
   {
@@ -642,6 +672,7 @@
     "year": 2016,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Flexible+Solver+For+1-D+Cochlear+Partition+Simulations",
     "citation": "Riera, P. E., & Eguía, M. C. (2016). Flexible solver for 1-d cochlear partition simulations. Proceedings of the 22nd International Congress on Acoustics."
   },
   {
@@ -663,6 +694,7 @@
     "year": 2016,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Multiple-scattering+theory+for+two-dimensional+arbitrarily+shaped+acoustic+composites",
     "citation": "Alberti, A., Spiousas, I., Riera, P. E., & Eguía, M. C. (2016). Multiple-scattering theory for two-dimensional arbitrarily shaped acoustic composites. Proceedings of the 22nd International Congress on Acoustics."
   },
   {
@@ -686,6 +718,7 @@
     "year": 2014,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=A+Comparative+Study+of+Saxophone+Multiphonics%3A+Musical%2C+Psychophysical+and+Spectral+Analysis",
     "citation": "Riera, P. E., Proscia, M., & Eguía, M. C. (2014). A comparative study of saxophone multiphonics: musical, psychophysical and spectral analysis. Journal of New Music Research, pp. 1–12."
   },
   {
@@ -711,6 +744,7 @@
     "year": 2013,
     "name": "Pablo_Riera",
     "method": "bibtex",
+    "url": "https://scholar.google.com/scholar?q=Vocal+caricatures+reveal+signatures+of+speaker+identity",
     "citation": "López, S., Riera, P. E., Assaneo, M. F., Eguía, M., Sigman, M., & Trevisan, M. A. (2013). Vocal caricatures reveal signatures of speaker identity. Scientific reports, 3."
   }
 ]
