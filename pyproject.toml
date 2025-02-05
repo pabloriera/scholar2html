@@ -14,7 +14,8 @@ requires-python = ">=3.8"
 dependencies = [
     "requests>=2.31.0",
     "pybtex>=0.24.0",    
-    "pybtex-apa-style"
+    "pybtex-apa-style",
+    "beautifulsoup4>=4.12.0",
 ]
 
 [project.urls]
