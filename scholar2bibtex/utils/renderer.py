@@ -196,7 +196,8 @@ class CitationRenderer:
         html += '<div class="filter-links">\n'
         html += f'<a onclick="filterByName(\'all\')" data-name="all" class="active">All</a>\n'
         for name in unique_names:
-            html += f'<a onclick="filterByName(\'{name}\')" data-name="{name}">{name.replace('_', ' ')}</a>\n'
+            name2 = name.replace('_', ' ')
+            html += f'<a onclick="filterByName(\'{name}\')" data-name="{name}">{name2}</a>\n'
         html += '</div>\n'
             
         html += """
