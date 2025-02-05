@@ -38,5 +38,8 @@
 
     ],
     "style": "apa",
-    "mandatory_fields": ["year"]
+    "mandatory_fields": ["year"],
+    "skip_titles": [
+        "Estudio comparativo del saxofón multifónico a partir de diferentes herramientas de análisis perceptivo"
+    ]
 }

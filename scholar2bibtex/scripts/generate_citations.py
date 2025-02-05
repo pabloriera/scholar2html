@@ -57,8 +57,14 @@ def main():
             
         # Load and render citations
         bib_data = renderer.load_bibtex(bibtex_file)
-        entries = renderer.render_citations(bib_data, method=method, name=name, mandatory_fields=mandatory_fields)
-        
+        entries = renderer.render_citations(
+            bib_data,
+            method=method,
+            name=name,
+            mandatory_fields=mandatory_fields,
+            skip_titles=config.get("skip_titles", None),
+        )
+
         # Generate individual HTML and JSON
         html_file = os.path.join(output_dir, f"{name}_{method}.html")
         json_file = os.path.join(output_dir, f"{name}_{method}.json")

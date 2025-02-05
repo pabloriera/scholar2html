@@ -2,6 +2,10 @@
 
 from difflib import SequenceMatcher 
 
+def same_text(text_a, text_b, threshold=0.9):
+    """Check if two texts are similar."""
+    seq = SequenceMatcher(None, text_a, text_b)
+    return seq.ratio() > threshold
 
 def remove_duplicates(entries):
     """Remove duplicates by looking repated titles in entries."""
@@ -15,8 +19,7 @@ def remove_duplicates(entries):
             if i == j:
                 continue
             title_b = entry_b['fields']['title'].lower()
-            seq = SequenceMatcher(None, title_a, title_b)
-            if seq.ratio() > 0.9:
+            if same_text(title_a, title_b):
                 print(f"Duplicate: {title_a} and {title_b}")
                 # pop entry with method 'scholar' if it exists
                 if entry_a['method'] == 'scholar':
