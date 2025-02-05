@@ -134,7 +134,7 @@ class CitationRenderer:
         entries.sort(key=lambda x: x['year'], reverse=True)
         
         # Get unique names
-        unique_names = sorted(list(set(entry['name'].replace('_', ' ') for entry in entries)))
+        unique_names = sorted(list(set(entry['name'] for entry in entries)))
         
         # Create HTML content
         html = """
@@ -196,7 +196,7 @@ class CitationRenderer:
         html += '<div class="filter-links">\n'
         html += f'<a onclick="filterByName(\'all\')" data-name="all" class="active">All</a>\n'
         for name in unique_names:
-            html += f'<a onclick="filterByName(\'{name}\')" data-name="{name}">{name}</a>\n'
+            html += f'<a onclick="filterByName(\'{name}\')" data-name="{name}">{name.replace('_', ' ')}</a>\n'
         html += '</div>\n'
             
         html += """
